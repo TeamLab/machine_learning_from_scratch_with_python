@@ -80,6 +80,7 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 - 가상환경과 Package 활용하기 - [강의영상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
 - Python Ecosystem for Machine Learning - [강의영상](https://www.youtube.com/watch?v=zpPEA_XZ7IU&t=170s&list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J&index=2)
 - Pycharm 설치(Mac) - [강의영상](https://www.youtube.com/watch?v=BobZjJVZorY&list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J&index=3)
+- How to use Jupyter Notebook
 
 ### Chapter 1 - Introduction to Data Science
 #### Lecture
@@ -89,13 +90,58 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 
 ### Chapter 2 - Warming Up: How to represent and handle data
 #### Lecture
-- Data Objects and Attribute Types
-- Data Objects and Attribute Tyeps
+- Data objects and attribute types
+- Data representation for mathematical model
+- Numpy for mathematical model
+- Pandas for Data Table
 
-#### Reading Materials
-    - Numpy 
-         - Gachon IME O.R. Honors - [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp) (최성철, 2016)
-         - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
+### Chapter 3 - Numpy Section 
+#### Lecture
+
+#### Supplements
+- TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
+
+### Chapter 4 - Pandas Section
+#### Lecture
+
+### Chapter 5 - Regression
+#### Lecture
+
+### Chapter 6 - Logistics Regression
+#### Lecture
+
+### Chapter 7 - Data Preprocessing
+#### Lecture
+
+### Chapter 8 - Naive Bayesian
+#### Lecture
+
+### Chapter 9 - Model Evaluation and Selection
+#### Lecture
+
+### Chapter 9 - Decision Tree
+#### Lecture
+
+### Chapter 10 - Ensemble Model
+#### Lecture
+
+### Chapter 11 - Hyperparmeter Search
+#### Lecture
+
+### Chapter 12 - Support Vector Model
+#### Lecture
+
+### Chapter 13 - Neural Network
+#### Lecture
+
+### Chapter 14 - Introduction to Clustering
+#### Lecture
+
+### Chapter 15 - K-Means clustering
+#### Lecture
+
+### Chapter 16 - PCA
+#### Lecture
 
 
 ### 지도 학습 (Supervised learning)
@@ -168,9 +214,6 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
     - Backpropagation
     
 `_**_``_**_`### 비지도 학습 (Unupervised learning)
-* K-Means clustering
-* PCA
-* SVM clustering
 
 ## 참고자료
 * Andrew Ng - Machine Learning (Couera)
