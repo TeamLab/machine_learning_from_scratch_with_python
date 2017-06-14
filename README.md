@@ -19,21 +19,28 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 * Course textbooks
     - [밑바닥부터 시작하는 데이터 과학](http://www.yes24.com/24/goods/27951467?scode=032&OzSrank=1)(조엘 그루스, 2016)
     - [파이썬 머신러닝](http://www.yes24.com/24/goods/35242117?scode=032&OzSrank=1)(세바스티안 라슈카, 2016)
+    - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)(Aurélien Géron, 2017, [PDF](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&sqi=2&ved=0ahUKEwin9b-9pr3UAhUGi5QKHac3BNMQFgg4MAQ&url=http%3A%2F%2Fwww.ic.unicamp.br%2F~wainer%2Fcursos%2F1s2017%2Fml%2FHands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf&usg=AFQjCNEffOWyzNODtA5K92gMdQi-mSYqcg&sig2=pgUcCFvxykrageegkJsgpw))
+    - [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791)(Jiawei Han, Micheline Kamber and Jian Pei , 2011, [PDF](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf))
 * Supplementary textbooks
+    - [파이썬 라이브러리를 활용한 데이터 분석](http://www.yes24.com/24/Goods/11043328?Acode=101)(웨스 맥키니, 2013)
+    - [머신러닝 인 액션](http://www.yes24.com/24/goods/9046762?scode=032&OzSrank=1)(피터 해링턴, 2013)
     - [데이터 과학 입문](http://www.yes24.com/24/goods/14982043?scode=032&OzSrank=4)(레이철 슈트 | 캐시 오닐, 2014)
+    - [머신러닝 인 파이썬](http://www.yes24.com/24/goods/23023041?scode=032&OzSrank=1)(마이클 보울즈, 2015)
+    - [머신러닝 이론 입문](http://www.yes24.com/24/goods/28191508?scode=032&OzSrank=1)(나카이 에츠지, 2016)
 * Course repository
     - [강의영상 on Youtube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
-    - [코드 on Github](https://github.com/TeamLab/data_school_at_gachon) - Here :)
 
 ## Prerequisites - 수강전 이수를 권장함
 * 입문 수준의 통계학
     - [세상에서 가장 쉬운 통계학](http://www.yes24.com/24/goods/3625262?scode=032&OzSrank=1)(고지마 히로유키, 2009)
     - [세상에서 가장 쉬운 베이즈통계학입문](http://www.yes24.com/24/goods/36928073?scode=032&OzSrank=2)(고지마 히로유키, 2017)
     - [확률과통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)(한양대학교 이상화 교수, 2014)
+    - Reading Materials: Data Science from the Scratch - Ch.5, Ch.6, Ch.7
 * 고교 이과 수준의 선형대수학 (Matrix와 Vector의 기본개념은 Review 필요)
     - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)(3Blue1Brown, 2017)
     - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)(Khan Academy)
     - [선형대수학](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)(한양대 이상화 교수, 2013) - Advance Course
+    - Reading Materials - Data Science from the Scratch - Ch.4
 * 고교 이과 수준의 미적분학 (개념에 대한 이해 필요)
     - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)(3Blue1Brown, 2017)
 * 기초 파이썬
@@ -69,28 +76,27 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 
 
 ## Course Contents
-### Intro
-* 데이터 과학 시작하기
-    - 데이터 과학이란 무엇인가? - [강의자료](https://doc.co/t57U5G/miwc5C)
-    - Machine Learning Overview - [강의자료](https://doc.co/ixxrYu/miwc5C)
-    - How to Learn ML - [강의자료](https://doc.co/pu98fv/miwc5C)
-    - Reading Materials 
-        - Scratch - Ch.1 
-        - DDS - Ch.1, Ch.2 
-* Data science ecosystem for python
-    - 파이썬 머신러닝 환경 개요
-    - 파이썬 머신러닝 환경 설치 문서 
-    - Miniconda installation - [강의영상](https://youtu.be/SAbunYOXaRU?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J) 
-    - Python Ecosystems for Machine Learning - [강의영상](https://youtu.be/BobZjJVZorY?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
-    - Pycharm installation - [강의영상](https://youtu.be/BobZjJVZorY)
-* 파이썬으로 수식 다루기 
-    - 선형대수
-        - Scratch - Ch.4
-    - 통계
-        - Scratch - Ch.5, Ch.6, Ch.7
+### Chapter 0 - Environment Setup
+- 가상환경과 Package 활용하기 - [강의영상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
+- Python Ecosystem for Machine Learning - [강의영상](https://www.youtube.com/watch?v=zpPEA_XZ7IU&t=170s&list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J&index=2)
+- Pycharm 설치(Mac) - [강의영상](https://www.youtube.com/watch?v=BobZjJVZorY&list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J&index=3)
+
+### Chapter 1 - Introduction to Data Science
+#### Lecture
+- 데이터 과학이란 무엇인가? - [강의자료](https://doc.co/t57U5G/miwc5C)
+- Understanding of Data Science Keywords
+- How to Learn Data Mining - [강의자료](https://doc.co/pu98fv/miwc5C)
+
+### Chapter 2 - Warming Up: How to represent and handle data
+#### Lecture
+- Data Objects and Attribute Types
+- Data Objects and Attribute Tyeps
+
+#### Reading Materials
     - Numpy 
          - Gachon IME O.R. Honors - [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp) (최성철, 2016)
          - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
+
 
 ### 지도 학습 (Supervised learning)
 * 선형 회귀 (Linear Regression)
