@@ -1,18 +1,18 @@
-# Data Mining from the Scratch by TEAMLAB
-본 Repository는 TEAMLAB에서 운영하는 데이터 과학 시리즈 MOOC 강의인 "**_Data Mining from the Scratch_**"의 강의 구성 및 코드를 저장하는 공간입니다.
+# Machine Learning from Scratch with Python
+본 Repository는 TEAMLAB에서 운영하는 데이터 과학 시리즈 MOOC 강의인 "**_Machine Learning from Scratch with Python _**"의 강의 구성 및 코드를 저장하는 공간입니다.
 TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습니다
 
-- 데이터 과학을 위한 파이썬 입문 (K-MOOC, 2017 Spring)
-- Operations Resarch with Python (K-MOOC, 2017 Spring)
-- Data Mining from the Scratch
+- [데이터 과학을 위한 파이썬 입문]() (YouTube)
+- [Operations Resarch with Python]() (YouTube)
+- Machine Learning from Scratch with Python
 - Deep Learning (가제, 검토중)
 - Deep NLP (가제, 검토중)
 
 ## Course Overview
-- 본 과정은 Machine Learning과 Data Mining에서 주로 사용되는 다양한 알고리즘들을 이해하고 구현하는 것을 목적으로 함
+- 본 과정은 머신러닝에 대한 기초개념과 주요 알고리즘들에 대해 이해하고 구현하는 것을 목적으로 함
 - 본 과정을 통해 수강자는 데이터 과학에서 사용되는 다양한 용어에 대한 기본적인 이해를 할 수 있음
 - 본 과정의 기본적인 구성은 알고리즘에 대한 설명, Numpy를 사용한 사용자 구현, Scikit-Learn을 사용한 패키지 활용으로 이루어 져 있음
-- 수강자는 Data Mining에서 주로 사용되는 알고리즘을 구현하기 위해 고등학교 수준의 통계학과 선형대수학의 이해가 필요함
+- 수강자는 머신러닝에서 주로 사용되는 알고리즘을 구현하기 위해 고등학교 수준의 통계학과 선형대수학의 이해가 필요함
 - 수강자는 본 과정을 통해 Numpy, Pands, Matplotlib, Scikit-Learn 등 데이터 분석을 위한 기본적인 파이썬 패키지를 이해하게됨
 
 ## Course Info
@@ -82,11 +82,15 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 - Pycharm 설치(Mac) - [강의영상](https://www.youtube.com/watch?v=BobZjJVZorY&list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J&index=3)
 - How to use Jupyter Notebook
 
-### Chapter 1 - Introduction to Data Science
+### Chapter 1 - Introduction to Machine Learning
 #### Lecture
-- 데이터 과학이란 무엇인가? - [강의자료](https://doc.co/t57U5G/miwc5C)
-- Understanding of Data Science Keywords
-- How to Learn Data Mining - [강의자료](https://doc.co/pu98fv/miwc5C)
+- Machine Learning Overview
+    - 머신러닝이 무엇인가 - 짤막한 개괄
+    - 현재 머신러닝으로 무엇을 할 수 있는가?
+- An Understanding of the Data Keywords - [강의영상_테스트](https://vimeo.com/224216240), 강의자료
+- How to Learn Machine Learning - [강의영상_테스트](https://vimeo.com/224215499), [강의자료](https://doc.co/pu98fv/miwc5C)
+- A History of Data Analysis: In Perspective of Business
+    - 정보시스템의 등장~~~부터 현재까지의 이야기
 
 ### Chapter 2 - Warming Up: How to represent and handle data
 #### Lecture
