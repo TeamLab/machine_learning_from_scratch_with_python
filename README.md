@@ -1,9 +1,9 @@
 # Machine Learning from Scratch with Python
-본 Repository는 TEAMLAB에서 운영하는 데이터 과학 시리즈 MOOC 강의인 "**_Machine Learning from Scratch with Python _**"의 강의 구성 및 코드를 저장하는 공간입니다.
+본 Repository는 TEAMLAB에서 운영하는 데이터 과학 시리즈 MOOC 강의인 "**Machine Learning from Scratch with Python **"의 강의 구성 및 코드를 저장하는 공간입니다.
 TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습니다
 
-- [데이터 과학을 위한 파이썬 입문]() (YouTube)
-- [Operations Resarch with Python]() (YouTube)
+- [데이터 과학을 위한 파이썬 입문](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC) ([YouTube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz))
+- [Operations Resarch with Python](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC) ([YouTube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ))
 - Machine Learning from Scratch with Python
 - Deep Learning (가제, 검토중)
 - Deep NLP (가제, 검토중)
@@ -87,26 +87,27 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 - Machine Learning Overview
     - 머신러닝이 무엇인가 - 짤막한 개괄
     - 현재 머신러닝으로 무엇을 할 수 있는가?
-- An Understanding of the Data Keywords - [강의영상_테스트](https://vimeo.com/224216240), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZk-VGrKvFS7CS6VYg)
-- How to Learn Machine Learning - [강의영상_테스트](https://vimeo.com/224215499), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZk_qMXBvgsmBebpAw)
+- An Understanding of the Data Keywords - [강의영상_테스트](https://vimeo.com/224216240), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoTp5TYYMyt3lDbMA)
+- How to Learn Machine Learning - [강의영상_테스트](https://vimeo.com/224215499), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoR-yUSeI3gcHC81Q)
+- Types of Machine Learning - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoSroE1WS_kwjQ7vw)
 - A History of Data Analysis: In Perspective of Business
     - 정보시스템의 등장~~~부터 현재까지의 이야기
 
-### Chapter 2 - Warming Up: How to represent and handle data
+### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
+- The concepts of a feature - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoZ1MSEOfcKMQePow)
 - Data objects and attribute types
-- Data representation for mathematical model
-- Numpy for mathematical model
 - Pandas for Data Table
+- Numpy for mathematical model
 
-### Chapter 3 - Numpy Section 
+### Chapter 3 - Pandas Section
+#### Lecture
+
+### Chapter 4 - Numpy Section
 #### Lecture
 
 #### Supplements
 - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
-
-### Chapter 4 - Pandas Section
-#### Lecture
 
 ### Chapter 5 - Regression
 #### Lecture
