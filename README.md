@@ -89,7 +89,7 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
     - 현재 머신러닝으로 무엇을 할 수 있는가?
 - An Understanding of the Data Keywords - [강의영상_테스트](https://vimeo.com/224216240), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoTp5TYYMyt3lDbMA)
 - How to Learn Machine Learning - [강의영상_테스트](https://vimeo.com/224215499), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoR-yUSeI3gcHC81Q)
-- Types of Machine Learning - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoSroE1WS_kwjQ7vw)
+- Types of Machine Learning - [강의영상_테스트(https://vimeo.com/224968727), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoSroE1WS_kwjQ7vw)
 - A History of Data Analysis: In Perspective of Business
     - 정보시스템의 등장~~~부터 현재까지의 이야기
 
