@@ -96,9 +96,9 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 ### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
 - The concepts of a feature - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoZ1MSEOfcKMQePow)
-- Data objects and attribute types
-- Pandas for Data Table
-- Numpy for mathematical model
+- Data types - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZodOve8ooAyw5fFlg)
+- Loading a data with pandas - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZodOve8ooAyw5fFlg)
+- Representing a model with numpy - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZolTuCt_VSi1y8FkA)
 
 ### Chapter 3 - Pandas Section
 #### Lecture
