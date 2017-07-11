@@ -89,16 +89,16 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
     - 현재 머신러닝으로 무엇을 할 수 있는가?
 - An Understanding of the Data Keywords - [강의영상_테스트](https://vimeo.com/224216240), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoTp5TYYMyt3lDbMA)
 - How to Learn Machine Learning - [강의영상_테스트](https://vimeo.com/224215499), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoR-yUSeI3gcHC81Q)
-- Types of Machine Learning - [강의영상_테스트(https://vimeo.com/224968727), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoSroE1WS_kwjQ7vw)
+- Types of Machine Learning - [강의영상_테스트](https://vimeo.com/224968727), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoSroE1WS_kwjQ7vw)
 - A History of Data Analysis: In Perspective of Business
     - 정보시스템의 등장~~~부터 현재까지의 이야기
 
 ### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
-- The concepts of a feature - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoZ1MSEOfcKMQePow)
-- Data types - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZodOve8ooAyw5fFlg)
-- Loading a data with pandas - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZodOve8ooAyw5fFlg)
-- Representing a model with numpy - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZolTuCt_VSi1y8FkA)
+- The concepts of a feature - [강의영상_테스트](https://vimeo.com/225042148), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoZ1MSEOfcKMQePow)
+- Data types - [강의영상_테스트](https://vimeo.com/225044969), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZodOve8ooAyw5fFlg)
+- Loading a data with pandas - [강의영상_테스트](https://vimeo.com/225052822), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZplKClObAYRvJPwgw)
+- Representing a model with numpy - [강의영상_테스트](https://vimeo.com/225046802), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZolTuCt_VSi1y8FkA)
 
 ### Chapter 3 - Pandas Section
 #### Lecture
