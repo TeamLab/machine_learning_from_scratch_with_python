@@ -102,9 +102,19 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 
 ### Chapter 3 - Pandas Section
 #### Lecture
+- Series - [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZlddccXR6mrUjMMrw)
+- DataFrame - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZs-wSdJATMvZT80Ng)
+- Pivot Handling
+- Operation Function
+- Data Cleaning Problem Overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZtJnCJXP_JZLMnHQg)
+- Missing Values
+- Categoical Data Handling
+- Scale Issues
 
 ### Chapter 4 - Numpy Section
 #### Lecture
+- Axis 이해하기 - [강의영상_테스트](https://www.youtube.com/watch?v=eLfdz1tMaS4&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=7)
+- 
 
 #### Supplements
 - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
