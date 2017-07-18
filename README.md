@@ -107,7 +107,7 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 - Data Cleaning Problem Overview - [강의영상_테스트](https://vimeo.com/225920938) [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZtJnCJXP_JZLMnHQg)
 - Missing Values - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/missing_value.ipynb)
 - Categoical Data Handling - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/classification_data.ipynb)
-- Scale Issues 
+- Feature Scaling - [강의영상_테스트](https://vimeo.com/226023593), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZwoqBEaBJZxTtuaSA), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/feature_scaling.ipynb)
 - Pivot Handling - 강의영상_테스트,
 - Operation Function
 
