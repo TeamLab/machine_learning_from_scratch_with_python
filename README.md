@@ -120,20 +120,23 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 #### Supplements
 - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
 
-### Chapter 5 - Regression
+### Chapter 5 - Linear Regression
 #### Lecture
 
-### Chapter 6 - Logistics Regression
+### Chapter 6 - Logistics Regression I
 #### Lecture
 
-### Chapter 7 - Data Preprocessing
+### Chapter 7 - Logistics Regression II
 #### Lecture
 
-### Chapter 8 - Naive Bayesian
+### Chapter 8 - Naive Bayesian Classifier
 #### Lecture
-
-### Chapter 9 - Model Evaluation and Selection
-#### Lecture
+- Probability overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw5bsS7_Hh82H_-nQ)
+- Bayes theorem - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw64iusWzHbkpbQEA)
+- Single variable bayes classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw8yyWqa_5TMqFNHQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch7/1_simple_naive_bayes.ipynb)
+- Navie bayesian Classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw9TBgpt1ZVlL0G7Q), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch7/2_german_credit_application.ipynb)
+- NB classifier with sklearn - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch7/3_spam_filter_with_sklearn.ipynb) 
+- Gaussian Normalization for Naive Bayesian 
 
 ### Chapter 9 - Decision Tree
 #### Lecture
@@ -141,22 +144,19 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 ### Chapter 10 - Ensemble Model
 #### Lecture
 
-### Chapter 11 - Hyperparmeter Search
+### Chapter 11 - Feature Engineearning
 #### Lecture
 
-### Chapter 12 - Support Vector Model
+### Chapter 12 - Hyperparmeter Search
 #### Lecture
 
-### Chapter 13 - Neural Network
+### Chapter 13 - Auto ML & Parallel training
 #### Lecture
 
-### Chapter 14 - Introduction to Clustering
+### Chapter 13 - Support Vector Model
 #### Lecture
 
-### Chapter 15 - K-Means clustering
-#### Lecture
-
-### Chapter 16 - PCA
+### Chapter 14 - Neural Network
 #### Lecture
 
 
