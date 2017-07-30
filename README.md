@@ -122,12 +122,27 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 
 ### Chapter 5 - Linear Regression
 #### Lecture
+- Probability overview - [강의자료]()
+- 
 
 ### Chapter 6 - Logistics Regression I
 #### Lecture
+- Logistic regression overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxF5t2M775fPWuKYg)
+- Sigmoid function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxGoJdeBtkFlFYYbQ)
+- Cost function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxRogjXDgLw2PM8qQ)
+- Logistic regression implementation - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxUrqLUo0LdaFhDhw)
+- Maximum Likelihood estimation
+- Logistic regresion with sklearn
 
 ### Chapter 7 - Logistics Regression II
 #### Lecture
+- Multi-class classification 
+- Multi-class classification implementation
+- Multi-class classification with classification
+- Overfitting - bias vs. variance
+- Generalization - L1 and L2
+- Implementation of generalization
+- Understanding of logistic regression hyperparmeters with sklearn
 
 ### Chapter 8 - Naive Bayesian Classifier
 #### Lecture
