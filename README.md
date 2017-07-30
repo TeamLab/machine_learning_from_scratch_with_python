@@ -127,10 +127,10 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 
 ### Chapter 6 - Logistics Regression I
 #### Lecture
-- Logistic regression overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxF5t2M775fPWuKYg)
-- Sigmoid function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxGoJdeBtkFlFYYbQ)
-- Cost function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxRogjXDgLw2PM8qQ)
-- Logistic regression implementation - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxUrqLUo0LdaFhDhw)
+- Logistic regression overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxF5t2M775fPWuKYg), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/1_classification_problem_overview.ipynb)
+- Sigmoid function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxGoJdeBtkFlFYYbQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/2_sigmoid_function_overview.ipynb)
+- Cost function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxRogjXDgLw2PM8qQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/3_logistic_regression_with_numpy.ipynb)
+- Logistic regression implementation - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxUrqLUo0LdaFhDhw), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/4_Logistic_Regression_with_sklearn.ipynb)
 - Maximum Likelihood estimation
 - Logistic regresion with sklearn
 
@@ -142,15 +142,15 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 - Overfitting - bias vs. variance
 - Generalization - L1 and L2
 - Implementation of generalization
-- Understanding of logistic regression hyperparmeters with sklearn
+- Understanding of logistic regression hyperparmeters with klearn
 
 ### Chapter 8 - Naive Bayesian Classifier
 #### Lecture
 - Probability overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw5bsS7_Hh82H_-nQ)
 - Bayes theorem - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw64iusWzHbkpbQEA)
-- Single variable bayes classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw8yyWqa_5TMqFNHQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch7/1_simple_naive_bayes.ipynb)
-- Navie bayesian Classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw9TBgpt1ZVlL0G7Q), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch7/2_german_credit_application.ipynb)
-- NB classifier with sklearn - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch7/3_spam_filter_with_sklearn.ipynb) 
+- Single variable bayes classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw8yyWqa_5TMqFNHQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/1_simple_naive_bayes.ipynb)
+- Navie bayesian Classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw9TBgpt1ZVlL0G7Q), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/2_german_credit_application.ipynb)
+- NB classifier with sklearn - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/3_spam_filter_with_sklearn.ipynb) 
 - Gaussian Normalization for Naive Bayesian 
 
 ### Chapter 9 - Decision Tree
