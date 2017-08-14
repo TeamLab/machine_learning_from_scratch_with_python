@@ -123,28 +123,23 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 ### Chapter 5 - Linear Regression
 #### Lecture
 - Probability overview - [강의자료]()
-- 
+- Overfitting - bias vs. variance
+- Generalization - L1 and L2
+- Implementation of generalization
 
-### Chapter 6 - Logistics Regression I
+### Chapter 6 - Logistics Regression 
 #### Lecture
 - Logistic regression overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxF5t2M775fPWuKYg), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/1_classification_problem_overview.ipynb)
 - Sigmoid function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxGoJdeBtkFlFYYbQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/2_sigmoid_function_overview.ipynb)
 - Cost function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxRogjXDgLw2PM8qQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/3_logistic_regression_with_numpy.ipynb)
 - Logistic regression implementation - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxUrqLUo0LdaFhDhw), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/4_Logistic_Regression_with_sklearn.ipynb)
-- Maximum Likelihood estimation
+- Maximum Likelihood estimation - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxVYvviY0gCYo0kdQ)
 - Logistic regresion with sklearn
+- Softmax fucntion for Multi-class classification - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ0FZz4IKV8XQpCFwg)
+- Cross entropy loss function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ1yFta91iSgNqon3g) 
+- Softmax regression - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ1xWe3b8oZv1quiig)
 
-### Chapter 7 - Logistics Regression II
-#### Lecture
-- Multi-class classification 
-- Multi-class classification implementation
-- Multi-class classification with classification
-- Overfitting - bias vs. variance
-- Generalization - L1 and L2
-- Implementation of generalization
-- Understanding of logistic regression hyperparmeters with klearn
-
-### Chapter 8 - Naive Bayesian Classifier
+### Chapter 7 - Naive Bayesian Classifier
 #### Lecture
 - Probability overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw5bsS7_Hh82H_-nQ)
 - Bayes theorem - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw64iusWzHbkpbQEA)
@@ -155,6 +150,15 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 
 ### Chapter 9 - Decision Tree
 #### Lecture
+- Decision tree overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4qi9X1hKjX082S8g)
+- The concept of entropy - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4r0UBLzvH0RUVYFg)
+- The algorithme of growing decision tree - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4tF16NBhJ2HVDQ1A)
+- ID3 & Information gain - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4uPwrK7vdCQqbrbg)
+- CART & Gini Index - [강의자료]()
+- Decision Tree with sklearn - [강의자료]()
+- Handling a continuous attribute - [강의자료]()
+- Decision Tree for Regression - [강의자료]()
+- Regression Tree with sklearn - [강의자료]()
 
 ### Chapter 10 - Ensemble Model
 #### Lecture
