@@ -148,17 +148,18 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
 - NB classifier with sklearn - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/3_spam_filter_with_sklearn.ipynb) 
 - Gaussian Normalization for Naive Bayesian 
 
-### Chapter 9 - Decision Tree
+### Chapter 8 - Decision Tree
 #### Lecture
 - Decision tree overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4qi9X1hKjX082S8g)
 - The concept of entropy - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4r0UBLzvH0RUVYFg)
 - The algorithme of growing decision tree - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4tF16NBhJ2HVDQ1A)
 - ID3 & Information gain - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4uPwrK7vdCQqbrbg)
-- CART & Gini Index - [강의자료]()
+- CART & Gini Index - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5QS8i_0xHPKwrxzA)
 - Decision Tree with sklearn - [강의자료]()
-- Handling a continuous attribute - [강의자료]()
-- Decision Tree for Regression - [강의자료]()
-- Regression Tree with sklearn - [강의자료]()
+- Handling a continuous attribute - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5OS2VoGe4YtmZrjw)
+- Decision Tree for Regression - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5R-oWB8757j1eOfQ)
+- Tree pruning - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5PqnjBrLnYOmHUNA)
+- Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb)
 
 ### Chapter 10 - Ensemble Model
 #### Lecture
@@ -239,8 +240,6 @@ TEAMLAB의 데이터 과학 시리즈 MOOC 아래와 같이 구성되어 있습�
     - Lab: 나이브 베이즈 분류기 구현 (Numpy) - [강의자료](https://doc.co/9jadPr), [Code](./code/4_bayesian_classificaion/1_naive_bayes_implementation.ipynb)
     - Lab: 스팸필터 분류기 (Scikit-Learn) - [Code](./code/4_bayesian_classificaion/2_spam_filter_model_w_sklearn.ipynb)
     - Lab: Text-mining 뉴스 분류기 (Scikit-Learn & NLTK) - [Code](./code/4_bayesian_classificaion/3_news_classification_w_nltk_nb.ipynb)
-* 의사 결정 트리 (Decision Tree )
-    - 의사결정트리 모델 - [Code](./code/5_decision_tree/1_decision_tree_w_sklearn.ipynb)
 * 서포트 벡터 머신(Support Vector Machine)
     - SVM 
 * 뉴럴 네트웤(Neural network)
