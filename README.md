@@ -1,4 +1,4 @@
-# Machine Learning from Scratch with Python
+ # Machine Learning from Scratch with Python
 본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 구축한 데이터 사이언스 과정의 두 번째 강의인 `밑바닥 부터 시작하는 머신러닝 입문` 입니다. `밑바닥부터 시작하는 머신러닝 입문`은  Part I과 Part II로 구성되어 있습니다.
 
 본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 준비한 [WADIZ 펀딩](https://www.wadiz.kr/web/campaign/detail/13991)의 지원을 받아제작되었습니다.
@@ -20,7 +20,7 @@
 ## Course Info
 - 본 과정은 머신러닝에 대한 기초개념과 주요 알고리즘들에 대해 이해하고 구현하는 것을 목적으로 함
 - 본 과정을 통해 수강자는 데이터 과학에서 사용되는 다양한 용어에 대한 기본적인 이해를 할 수 있음
-- 본 과정의 기본적인 구성은 알고리즘에 대한 설명, `Numpy를 사용한 사용자 구현`, `Scikit-Learn을 사용한 패키지 활용`으로 이루어 져 있음
+- 본 과정의 기본적인 구성은 알고리즘에 대한 설명, `Numpy를 사용한 구현`, `Scikit-Learn을 사용한 패키지 활용`으로 이루어 져 있음
 - 수강자는 머신러닝에서 주로 사용되는 알고리즘을 구현하기 위해 고등학교 수준의 통계학과 선형대수학의 이해가 필요함
 - 수강자는 본 과정을 통해 Numpy, Pandas, Matplotlib, Scikit-Learn 등 데이터 분석을 위한 기본적인 파이썬 패키지를 이해하게됨
 
@@ -49,47 +49,106 @@
 - Loading data with pandas - [강의영상](https://vimeo.com/225052822), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZplKClObAYRvJPwgw)
 - Representing a model with numpy - [강의영상](https://vimeo.com/225046802), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZolTuCt_VSi1y8FkA)
 
-### Chapter 3 - Pandas Section
+### Chapter 3 - Numpy Section
 #### Lecture
-- Chapter Intro - Pandas overview
-- Series - [강의영상](https://vimeo.com/225775174), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZlddccXR6mrUjMMrw), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/series_example.ipynb)
-- DataFrame - [강의영상](https://vimeo.com/225920932), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZs-wSdJATMvZT80Ng), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/dataframe_example.ipynb)
-- Data Cleaning Problem Overview - [강의영상](https://vimeo.com/225920938) [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZtJnCJXP_JZLMnHQg)
-- Missing Values - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/missing_value.ipynb)
-- Categoical Data Handling - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/classification_data.ipynb)
-- Feature Scaling - [강의영상](https://vimeo.com/226023593), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZwoqBEaBJZxTtuaSA), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/feature_scaling.ipynb)
-- Pivot Handling - 강의영상_테스트,
-- Operation Function
-
-
-### Chapter 4 - Numpy Section
-#### Lecture
+- Chapter Intro - Numpy
+- Numpy overview
+- ndarray
+- Handling shape
 - Axis 이해하기 - [강의영상_테스트](https://www.youtube.com/watch?v=eLfdz1tMaS4&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=7)
--
+- Indexing & Slicing
+- Creation functions
+- Opertaion functions
+- Array operations
+- Comparisons
+- Boolean & fancy Index
+- Numpy data i/o
+- Lab assignment
 
 #### Supplements
 - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
 
-### Chapter 5 - Linear Regression
+### Chapter 4 - Pandas Section #1
 #### Lecture
-- Probability overview - [강의자료]()
-- Overfitting - bias vs. variance
-- Generalization - L1 and L2
-- Implementation of generalization
+- Chapter Intro - Pandas
+- Pandas overview
+- Series - [강의영상](https://vimeo.com/225775174), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZlddccXR6mrUjMMrw), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/series_example.ipynb)
+- DataFrame - [강의영상](https://vimeo.com/225920932), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZs-wSdJATMvZT80Ng), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/dataframe_example.ipynb)
+- Selection & Drop
+- Dataframe operations
+- lambda, map apply
+- Pandas builit-in functions
+- Lab assignment
 
-### Chapter 6 - Logistics Regression
+### Chapter 5 - Pandas Section #2
+#### Lecture
+- Groupby
+- Pivot table & Crosstab
+- Merg & Concat
+- Lab assignment
+- Database connection & Persistance
+- Data Cleaning Problem Overview - [강의영상](https://vimeo.com/225920938) [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZtJnCJXP_JZLMnHQg)
+- Missing Values - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/missing_value.ipynb)
+- Categoical Data Handling - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/classification_data.ipynb)
+- Feature Scaling - [강의영상](https://vimeo.com/226023593), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZwoqBEaBJZxTtuaSA), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/feature_scaling.ipynb)
+
+
+### Chapter 7 - Matplotlib Section & Miniproject
+#### Lecture
+- Chapter overview - Matplotlib overview
+- Basic functions & operations
+- Graph
+- Matplotlib with pandas
+- Casestudy - KagglepProblems
+- Miniproject - Preprocessing works for House Price Problmes
+
+
+### Chapter 8 - Linear Regression
+#### Lecture
+- Linear regression overview
+- Cost functions
+- Linear Equality
+- Gradient descent approach
+- Linear regression wtih gradient descent
+- Linear regression wtih Numpy
+- Multivariate linear regression models
+- Multivariate linear regression with NumPy
+- Lab Assignment
+
+### Chapter 9 - Linear Regression Adavanced
+#### Lecture
+- Overfitting - bias vs. variance
+- Regularization - L1 and L2
+- Implementation of generalization with NumPy
+- Linear regression with sklearn
+- Polynomial regression
+- sklearn SGD family
+- Performance measure
+- Traing, test and Validation concepts
+
+
+### Chapter 10 - Logistics Regression
 #### Lecture
 - Logistic regression overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxF5t2M775fPWuKYg), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/1_classification_problem_overview.ipynb)
 - Sigmoid function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxGoJdeBtkFlFYYbQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/2_sigmoid_function_overview.ipynb)
 - Cost function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxRogjXDgLw2PM8qQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/3_logistic_regression_with_numpy.ipynb)
-- Logistic regression implementation - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxUrqLUo0LdaFhDhw), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/4_Logistic_Regression_with_sklearn.ipynb)
+- Logistic regression implementation with Numpy- [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxUrqLUo0LdaFhDhw), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/4_Logistic_Regression_with_sklearn.ipynb)
 - Maximum Likelihood estimation - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxVYvviY0gCYo0kdQ)
+- Regularization problems
 - Logistic regresion with sklearn
+
+### Chapter 11 - Logistics Regression Adavanced
+#### Lecture
 - Softmax fucntion for Multi-class classification - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ0FZz4IKV8XQpCFwg)
 - Cross entropy loss function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ1yFta91iSgNqon3g)
 - Softmax regression - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ1xWe3b8oZv1quiig)
+- Performance measures for classification
+- ROC Curve & AUC
+- Hyperparmeter searching
+- Data sampling method
+- Handling imbalanced dataset - Oversamplingm, Undersampling, and SMOTE
 
-### Chapter 7 - Naive Bayesian Classifier
+### Chapter 12 - Naive Bayesian Classifier
 #### Lecture
 - Probability overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw5bsS7_Hh82H_-nQ)
 - Bayes theorem - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw64iusWzHbkpbQEA)
@@ -98,7 +157,7 @@
 - NB classifier with sklearn - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/3_spam_filter_with_sklearn.ipynb)
 - Gaussian Normalization for Naive Bayesian
 
-### Chapter 8 - Decision Tree
+### Chapter 13 - Decision Tree
 #### Lecture
 - Decision tree overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4qi9X1hKjX082S8g)
 - The concept of entropy - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4r0UBLzvH0RUVYFg)
@@ -111,91 +170,25 @@
 - Tree pruning - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5PqnjBrLnYOmHUNA)
 - Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb)
 
-### Chapter 10 - Ensemble Model
+### Chapter 14 -  How to improve a performance of your model
+#### Lecture
+- Chapter intro
+- Ensemble model overview
+- Random Forest
+- Boosting, Bagging, AdaBoost
+- Implemnting ensemble classifier with sklearn
+- Gradient boosting - XGBoost, GBM & LightGBM
+- Stacking
+- Feature Engineearning
+- Hyperparmeter searching advanced
+- Hyperparmeter searching with Parallel training
+- AutoML
+
+### Chapter 15 - Support Vector Model
 #### Lecture
 
-### Chapter 11 - Feature Engineearning
+### Chapter 16 - Neural Network
 #### Lecture
-
-### Chapter 12 - Hyperparmeter Search
-#### Lecture
-
-### Chapter 13 - Auto ML & Parallel training
-#### Lecture
-
-### Chapter 13 - Support Vector Model
-#### Lecture
-
-### Chapter 14 - Neural Network
-#### Lecture
-
-
-### 지도 학습 (Supervised learning)
-* 선형 회귀 (Linear Regression)
-    - Lecture: 상관분석 - [강의자료](https://doc.co/ALbkA1)
-        - 참고 1 - [상관계수 구하는 법](http://math7.tistory.com/113) (나부랭이의 수학블로그, 2015)
-    - Lecture: 선형 회귀 모델 개요  - [강의자료](https://doc.co/YZmpW9)
-        - 참고 1 - [프로그래머를 위한 미분 강의](https://youtu.be/LwhK9HBEVAM) (홍정모, 2016)
-    - Lab : 상관분석 - [강의자료](https://doc.co/KAdm49)
-    - Lab : 선형회귀 모델 - [강의자료](https://doc.co/pXRgaD)
-    - Lecture: 경사하강법 (Gradient Descent) - [강의자료](https://doc.co/NTaRyv)
-    - Lecture: 선형회귀를 위한 경사하강법 - [강의자료](https://doc.co/VvY4rk)
-    - Lab: 선형회귀 경사하강법 구현 - [강의자료](https://doc.co/GJjb9V)
-    - Lecture: Cost Fucntion Graph
-    - Lecture: PyData Package: Tensorflow vs Scikit-learn - [강의자료](https://doc.co/qR89fb)
-    - Lab: Linear Regression Tensorflow - [강의자료](https://doc.co/x96Edn)
-        - 참고 1 :[Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
-        - 참고 2 :[Tensorflow로 간단한 Linear Regression을 구현](https://youtu.be/4HrSxpi3IAM?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
-        - 참고 3 :[Linear Regression의 cost 최소화 알고리즘의 원리 설명](https://www.youtube.com/watch?v=TxIVr-nk1so&index=6&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) (김성훈, 2016)
-    - Assignment: Tensorflow로 Linear Regression 구현하기
-    - Lab: Linear Regression Scikit-learn - [강의자료](https://doc.co/WGwUe5)
-    - Lecture: 다중 선형회귀 개요  - [강의자료](https://doc.co/Pos9iC/miwc5C)
-    - Lecture: 다중 선형회귀 구현(w/Gradient Descent) - [강의자료](https://doc.co/kns8Ty/miwc5C)
-    - Lab: 다중 선형 회귀 구현(w/Gradient Descent) - [강의자료](https://doc.co/dXwGbh/miwc5C)
-    - Lecture: 데이터 정규화
-    - Lab: 다중 선형회귀 모델 Tenrsorflow & Scikit-learn 구현
-        - 참고 1 :[Multi-variable linear regression](https://www.youtube.com/watch?v=UYWJkyYln2s&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=8) (김성훈, 2016)
-        - 참고 2 :[Multi-variable linear regression을 TensorFlow에서 구현하기](https://www.youtube.com/watch?v=iEaVR1N8EEk&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=9) (김성훈, 2016)
-* 로지스틱 회귀 (Logistic regression)
-    - Lecture: 분류 문제 개요 (Classification Problem Overview) - [강의자료](https://doc.co/R1MpqF/miwc5C)
-    - Lecture: 로지스틱 회귀 개요 (Logistic Regression Overview) - [강의자료](https://doc.co/6wWbDs/miwc5C)
-    - Lab: 경사하강법으로 로지스틱 회귀 구현 (Pure Python)
-    - Lab: Scikit-learn과 Tensorflow로 로지스틱 회귀 구현
-        - 참고 1 :[Logistic Classification의 가설 함수 정의](https://www.youtube.com/watch?v=PIjno6paszY&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=10) (김성훈, 2016)
-        - 참고 2 :[Logistic Regression의 cost 함수 설명](https://www.youtube.com/watch?v=6vzchGYEJBc&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=11) (김성훈, 2016)
-        - 참고 3 :[TensorFlow로 Logistic Classification의 구현하기](https://www.youtube.com/watch?v=t7Y9luCNzzE&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=12) (김성훈, 2016)
-    - Lecture: 범주형 자료와 다항 로지스틱 회귀 (Categorical data and Multinomial Logistic Regression) - [code](code/2_logistic_regression/5_categorical_data_logistic_regression.ipynb)
-    - Lab: 범주형 자료와 다항 로지스틱 회귀 구현 (Pure Python)
-    - Lab: 범주형 자료와 다항 로지스틱 회귀 구현 II (Tensorflow, Scikit-learn) - [강의자료](https://doc.co/2K3EfX/miwc5C), [Code](./code/2_logistic_regression/6_multinomail_logistic_regression.ipynb)
-    - Lecture: 분류 서비스 구현하기 - [강의자료](https://doc.co/QSHysn/miwc5C), [Modelling code](./code/2_logistic_regression/7_classification_service.ipynb),  [Service code](./code/2_logistic_regression/8_logistic_service_server.py)
-* 분석 성능 측정과 개선 (Performance Evaluation )
-    - Lecture: 분류/회귀 문제의 성능 측정 - [강의자료](https://doc.co/bcmdod/miwc5C)
-        - RM 1 : Scratch Ch 11(p143~p147)
-        - RM 2 : DDS Ch 3(p92), Ch 5(p140~p153)
-    - Lab: 분류 문제의 성능 측정 - [Code](./code/3_analysis_performance/1_measure_classification_performance.ipynb)
-    - Lab: 회귀 문제의 성능 측정 - [Code](./code/3_analysis_performance/2_measure_regression_performance.ipynb)
-    - Lecture: 어떻게 성능을 개선할 것인가?
-        - 참고 1 :[Overfitting](http://sanghyukchun.github.io/59/) (전상혁, 2014)
-    - Lecture: 성능 개선 1 - 벌점 회귀 (Penalizaed Regression)
-    - Lab: 벌점 회귀 구현 I (Numpy)
-    - Lab: 벌점 회귀 구현 II (Tensorflow & Scikit-Learn)
-    - Lecture: 성능 개선 2 - Feature Engineering
-    - Lab: Feature Selection with Pandas
-    - Lecture: 성능 개선 3 - 경사하강법 알고리즘의 선택
-    - Lab: SGD 알고리즘 구현
-* 나이브 베이즈 분류기 (Navie Bayes Classifier)
-    - Lecture: 나이브 베이즈 분류기 개요 (Naive Bayesian Classifier Overview) - [강의자료](https://doc.co/iTJBKs)
-        - RM 1 : DDS Ch 4(p117)
-        - RM 2 : scratch Ch 13
-    - Lab: 나이브 베이즈 분류기 구현 (Numpy) - [강의자료](https://doc.co/9jadPr), [Code](./code/4_bayesian_classificaion/1_naive_bayes_implementation.ipynb)
-    - Lab: 스팸필터 분류기 (Scikit-Learn) - [Code](./code/4_bayesian_classificaion/2_spam_filter_model_w_sklearn.ipynb)
-    - Lab: Text-mining 뉴스 분류기 (Scikit-Learn & NLTK) - [Code](./code/4_bayesian_classificaion/3_news_classification_w_nltk_nb.ipynb)
-* 서포트 벡터 머신(Support Vector Machine)
-    - SVM
-* 뉴럴 네트웤(Neural network)
-    - Neural network 개념의 이해
-    - 미분 - Chain rule
-    - Backpropagation
 
 ## 참고자료
 * [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Couera) by Andrew Ng  
