@@ -115,7 +115,7 @@
 - Multivariate linear regression with NumPy
 - Lab Assignment
 
-### Chapter 9 - Linear Regression Adavanced
+### Chapter 9 - Linear Regression extended
 #### Lecture
 - Overfitting - bias vs. variance
 - Regularization - L1 and L2
@@ -137,7 +137,7 @@
 - Regularization problems
 - Logistic regresion with sklearn
 
-### Chapter 11 - Logistics Regression Adavanced
+### Chapter 11 - Logistics Regression extended
 #### Lecture
 - Softmax fucntion for Multi-class classification - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ0FZz4IKV8XQpCFwg)
 - Cross entropy loss function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ1yFta91iSgNqon3g)
