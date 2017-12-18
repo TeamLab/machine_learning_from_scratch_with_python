@@ -34,7 +34,6 @@
 - A History of Data Analysis: In Perspective of Business - [강의영상](), [강의자료]()
 - Environment Setup
   - Python Ecosystem for Machine Learning - [강의영상](), [강의자료]()
-  - Pycharm 설치(Mac) - [강의영상](), [강의자료]()
   - How to use Jupyter Notebook - [강의영상](), [강의자료]()
 - 참고자료
   - 가상환경과 Package 활용하기 - [강의영
