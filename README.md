@@ -27,14 +27,14 @@
 
 ## Course Contents
 ### Chapter 1 - Introduction to Machine Learning
-- Machine Learning Overview - [강의영상](https://vimeo.com/247764673/aabdcb012b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
-- An Understanding of the Data Keywords - [강의영상](), [강의자료]()
-- How to Learn Machine Learning - [강의영상](), [강의자료]()
-- Types of Machine Learning - [강의영상](), [강의자료]()
-- A History of Data Analysis: In Perspective of Business - [강의영상](), [강의자료]()
-- Environment Setup
-  - Python Ecosystem for Machine Learning - [강의영상](), [강의자료]()
-  - How to use Jupyter Notebook - [강의영상](), [강의자료]()
+- Machine learning overview - [강의영상](https://vimeo.com/247764673/aabdcb012b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
+- An understanding of the data keywords - [강의영상](https://vimeo.com/248134839/41beebbb52), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNWzCy7_qdMbAAYmQ)
+- How to learn machine learning - [강의영상](https://vimeo.com/247903234/d1be4a892d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNX7i9JHPB04EwT3g)
+- Types of machine learning - [강의영상](https://vimeo.com/247903499/be2133e5e4), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNYJGXJnnhTP1Ckgg)
+- Data era: In a perspective of business - [강의영상](https://vimeo.com/247797541/2eff79192d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNryl5eqXo-uKrU4A)
+- Environment setup
+  - Python ecosystem for machine learning - [강의영상](https://vimeo.com/247903638/96dc854a53), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
+  - How to use Jupyter Notebook - [강의영상](https://vimeo.com/248135457/5047913a77), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
 - 참고자료
   - 가상환경과 Package 활용하기 - [강의영
   상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
@@ -42,10 +42,10 @@
 ### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
 - Chapter Intro
-- The concepts of a feature - [강의영상](https://vimeo.com/225042148), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZoZ1MSEOfcKMQePow)
-- Data types - [강의영상](https://vimeo.com/225044969), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZodOve8ooAyw5fFlg)
-- Loading data with pandas - [강의영상](https://vimeo.com/225052822), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZplKClObAYRvJPwgw)
-- Representing a model with numpy - [강의영상](https://vimeo.com/225046802), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZolTuCt_VSi1y8FkA)
+- The concepts of a feature - [강의영상](https://vimeo.com/248135476/30221dd1c0), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNeJhTRwFjT-bGVDw)
+- Data types - [강의영상](https://vimeo.com/248135502/0247ac40cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNfXxiglrHTYuOtlQ)
+- Loading data with pandas - [강의영상](https://vimeo.com/248135531/09d2e1583f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNgvdCPoeAyNSGDwg)
+- Representing a model with numpy - [강의영상](), [강의자료]()
 
 ### Chapter 3 - Numpy Section
 #### Lecture
