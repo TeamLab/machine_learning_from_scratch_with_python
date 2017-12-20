@@ -27,15 +27,13 @@
 
 ## Course Contents
 ### Chapter 1 - Introduction to Machine Learning
-- Chapter Intro
-- Machine Learning Overview - [강의영상](), [강의자료]()
+- Machine Learning Overview - [강의영상](https://vimeo.com/247764673/aabdcb012b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
 - An Understanding of the Data Keywords - [강의영상](), [강의자료]()
 - How to Learn Machine Learning - [강의영상](), [강의자료]()
 - Types of Machine Learning - [강의영상](), [강의자료]()
 - A History of Data Analysis: In Perspective of Business - [강의영상](), [강의자료]()
 - Environment Setup
   - Python Ecosystem for Machine Learning - [강의영상](), [강의자료]()
-  - Pycharm 설치(Mac) - [강의영상](), [강의자료]()
   - How to use Jupyter Notebook - [강의영상](), [강의자료]()
 - 참고자료
   - 가상환경과 Package 활용하기 - [강의영
@@ -215,12 +213,12 @@
     - [세상에서 가장 쉬운 통계학](http://www.yes24.com/24/goods/3625262?scode=032&OzSrank=1)(고지마 히로유키, 2009)
     - [세상에서 가장 쉬운 베이즈통계학입문](http://www.yes24.com/24/goods/36928073?scode=032&OzSrank=2)(고지마 히로유키, 2017)
     - [확률과통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)(한양대학교 이상화 교수, 2014)
-    - Reading Materials: Data Science from the Scratch - Ch.5, Ch.6, Ch.7
+    - Reading Materials: Data Science from Scratch - Ch.5, Ch.6, Ch.7
 * 고교 이과 수준의 선형대수학 (Matrix와 Vector의 기본개념은 Review 필요)
     - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)(3Blue1Brown, 2017)
     - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)(Khan Academy)
     - [선형대수학](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)(한양대 이상화 교수, 2013) - Advance Course
-    - Reading Materials - Data Science from the Scratch - Ch.4
+    - Reading Materials - Data Science from Scratch - Ch.4
 * 고교 이과 수준의 미적분학 (개념에 대한 이해 필요)
     - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)(3Blue1Brown, 2017)
 * 파이썬 기초
