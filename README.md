@@ -45,6 +45,7 @@
 - Data types - [강의영상](https://vimeo.com/248135502/0247ac40cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNfXxiglrHTYuOtlQ)
 - Loading data with pandas - [강의영상](https://vimeo.com/248135531/09d2e1583f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNgvdCPoeAyNSGDwg)
 - Representing a model with numpy - [강의영상](https://vimeo.com/248429135/80a20f04b8), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
+
 #### Supplements - Linear algebra
 - Lab: Simple Linear algebra concepts- [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
 - Lab: Simple Linear algebra codes - [강의영상](https://vimeo.com/245943473/7372cc35c3), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
