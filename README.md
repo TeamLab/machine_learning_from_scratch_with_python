@@ -36,16 +36,20 @@
   - Python ecosystem for machine learning - [강의영상](https://vimeo.com/247903638/96dc854a53), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
   - How to use Jupyter Notebook - [강의영상](https://vimeo.com/248135457/5047913a77), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
 - 참고자료
-  - 가상환경과 Package 활용하기 - [강의영
-  상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
+  - 가상환경과 Package 활용하기 - [강의영  상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
 
 ### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
-- Chapter Intro
+- Chapter Intro - [강의영상](https://vimeo.com/248476105/2244b5a8fe), [강의자료모음](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNx-2ElufG5PAPXYA), [코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch2)
 - The concepts of a feature - [강의영상](https://vimeo.com/248135476/30221dd1c0), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNeJhTRwFjT-bGVDw)
 - Data types - [강의영상](https://vimeo.com/248135502/0247ac40cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNfXxiglrHTYuOtlQ)
 - Loading data with pandas - [강의영상](https://vimeo.com/248135531/09d2e1583f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNgvdCPoeAyNSGDwg)
-- Representing a model with numpy - [강의영상](), [강의자료]()
+- Representing a model with numpy - [강의영상](https://vimeo.com/248429135/80a20f04b8), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
+#### Supplements - Linear algebra
+- Lab: Simple Linear algebra concepts- [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
+- Lab: Simple Linear algebra codes - [강의영상](https://vimeo.com/245943473/7372cc35c3), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
+- Assignment: Linear algebra with pythonic code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_bla/lab_bla.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_bla)
+
 
 ### Chapter 3 - Numpy Section
 #### Lecture
@@ -91,7 +95,7 @@
 - Feature Scaling - [강의영상](https://vimeo.com/226023593), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZwoqBEaBJZxTtuaSA), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/feature_scaling.ipynb)
 
 
-### Chapter 7 - Matplotlib Section & Miniproject
+### Chapter 6 - Matplotlib Section & Miniproject
 #### Lecture
 - Chapter overview - Matplotlib overview
 - Basic functions & operations
@@ -101,7 +105,7 @@
 - Miniproject - Preprocessing works for House Price Problmes
 
 
-### Chapter 8 - Linear Regression
+### Chapter 7 - Linear Regression
 #### Lecture
 - Linear regression overview
 - Cost functions
@@ -113,7 +117,7 @@
 - Multivariate linear regression with NumPy
 - Lab Assignment
 
-### Chapter 9 - Linear Regression extended
+### Chapter 8 - Linear Regression extended
 #### Lecture
 - Overfitting - bias vs. variance
 - Regularization - L1 and L2
@@ -125,7 +129,7 @@
 - Traing, test and Validation concepts
 
 
-### Chapter 10 - Logistics Regression
+### Chapter 9 - Logistics Regression
 #### Lecture
 - Logistic regression overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxF5t2M775fPWuKYg), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/1_classification_problem_overview.ipynb)
 - Sigmoid function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxGoJdeBtkFlFYYbQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/2_sigmoid_function_overview.ipynb)
@@ -135,7 +139,7 @@
 - Regularization problems
 - Logistic regresion with sklearn
 
-### Chapter 11 - Logistics Regression extended
+### Chapter 10 - Logistics Regression extended
 #### Lecture
 - Softmax fucntion for Multi-class classification - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ0FZz4IKV8XQpCFwg)
 - Cross entropy loss function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ1yFta91iSgNqon3g)
@@ -146,7 +150,7 @@
 - Data sampling method
 - Handling imbalanced dataset - Oversamplingm, Undersampling, and SMOTE
 
-### Chapter 12 - Naive Bayesian Classifier
+### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
 - Probability overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw5bsS7_Hh82H_-nQ)
 - Bayes theorem - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw64iusWzHbkpbQEA)
@@ -155,7 +159,7 @@
 - NB classifier with sklearn - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/3_spam_filter_with_sklearn.ipynb)
 - Gaussian Normalization for Naive Bayesian
 
-### Chapter 13 - Decision Tree
+### Chapter 12 - Decision Tree
 #### Lecture
 - Decision tree overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4qi9X1hKjX082S8g)
 - The concept of entropy - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4r0UBLzvH0RUVYFg)
@@ -168,7 +172,7 @@
 - Tree pruning - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5PqnjBrLnYOmHUNA)
 - Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb)
 
-### Chapter 14 -  How to improve a performance of your model
+### Chapter 13 -  How to improve a performance of your model
 #### Lecture
 - Chapter intro
 - Ensemble model overview
@@ -182,10 +186,10 @@
 - Hyperparmeter searching with Parallel training
 - AutoML
 
-### Chapter 15 - Support Vector Model
+### Chapter 14 - Support Vector Model
 #### Lecture
 
-### Chapter 16 - Neural Network
+### Chapter 15 - Neural Network
 #### Lecture
 
 ## 참고자료
