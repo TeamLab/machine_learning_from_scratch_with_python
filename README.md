@@ -54,10 +54,10 @@
 
 ### Chapter 3 - Numpy Section
 #### Lecture
-- Chapter Intro - Numpy
-- Numpy overview
-- ndarray
-- Handling shape
+- Chapter Intro - [강의영상](https://vimeo.com/248929865/76c8229894), [강의자료모음](), [코드]()
+- Numpy overview  - [강의영상](https://vimeo.com/248743492/702e0b7cb9), [강의자료]()
+- ndarray - [강의영상](https://vimeo.com/248743595/2bb4044b0f), [강의자료]()
+- Handling shape - [강의영상](https://vimeo.com/248743660/f7556bf9f0), [강의자료]()
 - Axis 이해하기 - [강의영상_테스트](https://www.youtube.com/watch?v=eLfdz1tMaS4&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=7)
 - Indexing & Slicing
 - Creation functions
