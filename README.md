@@ -47,23 +47,22 @@
 - Representing a model with numpy - [강의영상](https://vimeo.com/248429135/80a20f04b8), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
 
 #### Supplements - Linear algebra
-- Lab: Simple Linear algebra concepts- [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
+- Lab: Simple Linear algebra concepts - [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
 - Lab: Simple Linear algebra codes - [강의영상](https://vimeo.com/245943473/7372cc35c3), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
 - Assignment: Linear algebra with pythonic code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_bla/lab_bla.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_bla)
 
 
 ### Chapter 3 - Numpy Section
 #### Lecture
-- Chapter Intro - Numpy
-- Numpy overview
-- ndarray
-- Handling shape
-- Axis 이해하기 - [강의영상_테스트](https://www.youtube.com/watch?v=eLfdz1tMaS4&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=7)
-- Indexing & Slicing
-- Creation functions
-- Opertaion functions
-- Array operations
-- Comparisons
+- Chapter Intro - [강의영상](https://vimeo.com/248929865/76c8229894), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA)
+- Numpy overview - [강의영상](https://vimeo.com/248743492/702e0b7cb9)
+- ndarray - [강의영상](https://vimeo.com/248743595/2bb4044b0f)
+- Handling shape - [강의영상](https://vimeo.com/248743660/f7556bf9f0)
+- Indexing & Slicing - [강의영상](https://vimeo.com/249209302/5684d9c74d)
+- Creation functions - [강의영상](https://vimeo.com/249209309/928603c39f)
+- Opertaion functions - [강의영상](https://vimeo.com/249209319/6a91bf02e2)
+- Array operations - [강의영상](https://vimeo.com/249209338/aa25a7d5fa)
+- Comparisons - [강의영상](https://vimeo.com/249209348/2d08684423)
 - Boolean & fancy Index
 - Numpy data i/o
 - Lab assignment
