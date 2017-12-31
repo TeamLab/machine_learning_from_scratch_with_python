@@ -54,7 +54,6 @@
 
 ### Chapter 3 - Numpy Section
 #### Lecture
-<<<<<<< HEAD
 - Chapter Intro - [강의영상](https://vimeo.com/248929865/76c8229894), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA)
 - Numpy overview - [강의영상](https://vimeo.com/248743492/702e0b7cb9)
 - ndarray - [강의영상](https://vimeo.com/248743595/2bb4044b0f)
@@ -64,18 +63,6 @@
 - Opertaion functions - [강의영상](https://vimeo.com/249209319/6a91bf02e2)
 - Array operations - [강의영상](https://vimeo.com/249209338/aa25a7d5fa)
 - Comparisons - [강의영상](https://vimeo.com/249209348/2d08684423)
-=======
-- Chapter Intro - [강의영상](https://vimeo.com/248929865/76c8229894), [강의자료모음](), [코드]()
-- Numpy overview  - [강의영상](https://vimeo.com/248743492/702e0b7cb9), [강의자료]()
-- ndarray - [강의영상](https://vimeo.com/248743595/2bb4044b0f), [강의자료]()
-- Handling shape - [강의영상](https://vimeo.com/248743660/f7556bf9f0), [강의자료]()
-- Axis 이해하기 - [강의영상_테스트](https://www.youtube.com/watch?v=eLfdz1tMaS4&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=7)
-- Indexing & Slicing
-- Creation functions
-- Opertaion functions
-- Array operations
-- Comparisons
->>>>>>> 58ee93a9574dadb9cb9df14a11cdc6e91afab6fa
 - Boolean & fancy Index
 - Numpy data i/o
 - Lab assignment
