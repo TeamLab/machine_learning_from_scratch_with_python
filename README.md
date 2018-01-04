@@ -54,7 +54,7 @@
 
 ### Chapter 3 - Numpy Section
 #### Lecture
-- Chapter Intro - [강의영상](https://vimeo.com/248929865/76c8229894), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA)
+- Chapter Intro - [강의영상](https://vimeo.com/249674805/e3f21116ab), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch3), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch3.zip)
 - Numpy overview - [강의영상](https://vimeo.com/248743492/702e0b7cb9)
 - ndarray - [강의영상](https://vimeo.com/248743595/2bb4044b0f)
 - Handling shape - [강의영상](https://vimeo.com/248743660/f7556bf9f0)
@@ -72,10 +72,10 @@
 
 ### Chapter 4 - Pandas Section #1
 #### Lecture
-- Chapter Intro - Pandas
-- Pandas overview
-- Series - [강의영상](https://vimeo.com/225775174), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZlddccXR6mrUjMMrw), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/series_example.ipynb)
-- DataFrame - [강의영상](https://vimeo.com/225920932), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZs-wSdJATMvZT80Ng), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/dataframe_example.ipynb)
+- Chapter Intro - [강의영상](https://vimeo.com/249674832/64fda89754), [강의자료](), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch4), [코드다운로드]()
+- Pandas overview - [강의영상](https://vimeo.com/249473330/d53678608e)
+- Series - [강의영상](https://vimeo.com/249473353/384f5b080f)
+- DataFrame - [강의영상](https://vimeo.com/249672906/3eefec3cdf)
 - Selection & Drop
 - Dataframe operations
 - lambda, map apply
