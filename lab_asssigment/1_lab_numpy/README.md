@@ -4,7 +4,7 @@ Copyright 2018 © document created by teamLab.gachon@gmail.com
 
 ## Introduction
 
-[PDF 파일 다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_numpy.pdf)
+[PDF 파일 다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/numpy_lab.pdf)
 
 오래 기다리셨습니다. 드디어 Machin Learning 강의 첫 번째 Lab Assignment입니다. 머신러닝 강의는 사실 Lab 제작에 있어 많은 고민을 했습니다. 처음이야 상관없겠지만 뒤로 갈수록 데이터도 커지고, 좋은 머신이 아닐 경우 시간도 오래 걸려서 어려움이 많을 거 같습니다. 그러나, 일단은 시작하기로 했습니다.
 
@@ -18,10 +18,11 @@ pip install backend.ai-client
 ```
 
 ## 숙제 파일(lab_numpy.zip) 다운로드
- 먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+ 먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 아래링크를 다운로드 하거나 Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
- [lab_numpy.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip)
-
+ - 링크 [lab_numpy.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip)
+ - https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip
+ 
  또는 Mac OS에서는 아래 명령을 쓰셔도 됩니다.
  ```bash
  wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip
