@@ -49,7 +49,7 @@
 #### Supplements - Linear algebra
 - Lab: Simple Linear algebra concepts - [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
 - Lab: Simple Linear algebra codes - [강의영상](https://vimeo.com/245943473/7372cc35c3), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
-- Assignment: Linear algebra with pythonic code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_bla/lab_bla.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_bla)
+- Assignment: Linear algebra with pythonic code -  [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_bla/lab_bla.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_bla)
 
 
 ### Chapter 3 - Numpy Section
@@ -63,9 +63,9 @@
 - Opertaion functions - [강의영상](https://vimeo.com/249209319/6a91bf02e2)
 - Array operations - [강의영상](https://vimeo.com/249209338/aa25a7d5fa)
 - Comparisons - [강의영상](https://vimeo.com/249209348/2d08684423)
-- Boolean & fancy Index
-- Numpy data i/o
-- Lab assignment
+- Boolean & fancy Index - [강의영상](https://vimeo.com/249931252/08b426eceb)
+- Numpy data i/o - [강의영상](https://vimeo.com/249931258/74a7d3812d)
+- Assignment: Numpy in a nutshell -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_numpy.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/1_lab_numpy)
 
 #### Supplements
 - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
