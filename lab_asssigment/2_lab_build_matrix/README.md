@@ -20,7 +20,7 @@ pip install backend.ai-client
 ## 숙제 파일(lab_bulid_matrix.zip) 다운로드
  먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 아래링크를 다운로드 하거나 Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
- - 링크 [lab_numpy.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/2_lab_build_matrix.zip)
+ - 링크 [2_lab_bulid_matrix.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/2_lab_build_matrix.zip)
  - https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/2_lab_build_matrix.zip
 
  또는 Mac OS에서는 아래 명령을 쓰셔도 됩니다.
@@ -28,7 +28,7 @@ pip install backend.ai-client
  wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/2_lab_bulid_matrix.zip
  ```
 
- 다운로드 된 `lab_bulid_matrix.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.
+ 다운로드 된 `2_lab_bulid_matrix.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.
  압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
 
 

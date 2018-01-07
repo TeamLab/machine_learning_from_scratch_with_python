@@ -80,7 +80,7 @@
 - Dataframe operations
 - lambda, map apply
 - Pandas builit-in functions
-- Lab assignment
+- Lab Assignment: Build a matrix -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/build_matrix.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/2_lab_build_matrix)
 
 ### Chapter 5 - Pandas Section #2
 #### Lecture
