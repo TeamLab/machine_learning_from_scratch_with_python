@@ -22,7 +22,7 @@ pip install backend.ai-client
 
  - 링크 [lab_numpy.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip)
  - https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip
- 
+
  또는 Mac OS에서는 아래 명령을 쓰셔도 됩니다.
  ```bash
  wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip
@@ -50,7 +50,7 @@ def n_size_ndarray_creation(n, dtype=np.int):
     - n: 생성하고자 하는 ndarray의 row와 column의 개수
     - dtype: 생성하려는 ndarray의 data type (np.int)
 - Returns
-  - row와 column의 길이가 n인 two dimentional ndarray로 X[0,0]은 0으로 순차적으로 X[n-1,n-1]은 n^2이 할당됨
+  - row와 column의 길이가 n인 two dimentional ndarray로 X[0,0]은 0으로 순차적으로 X[n-1,n-1]은 n^2-1이 할당됨
 
 #### zero_or_one_or_empty_ndarray
 - Template
