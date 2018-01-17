@@ -1,4 +1,4 @@
- # Machine Learning from Scratch with Python
+# Machine Learning from Scratch with Python
 본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 구축한 데이터 사이언스 과정의 두 번째 강의인 `밑바닥 부터 시작하는 머신러닝 입문` 입니다. `밑바닥부터 시작하는 머신러닝 입문`은  Part I과 Part II로 구성되어 있습니다.
 
 본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 준비한 [WADIZ 펀딩](https://www.wadiz.kr/web/campaign/detail/13991)의 지원을 받아제작되었습니다.
@@ -33,10 +33,10 @@
 - Types of machine learning - [강의영상](https://vimeo.com/247903499/be2133e5e4), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNYJGXJnnhTP1Ckgg)
 - Data era: In a perspective of business - [강의영상](https://vimeo.com/247797541/2eff79192d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNryl5eqXo-uKrU4A)
 - Environment setup
-  - Python ecosystem for machine learning - [강의영상](https://vimeo.com/247903638/96dc854a53), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
-  - How to use Jupyter Notebook - [강의영상](https://vimeo.com/248135457/5047913a77), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
+ - Python ecosystem for machine learning - [강의영상](https://vimeo.com/247903638/96dc854a53), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
+ - How to use Jupyter Notebook - [강의영상](https://vimeo.com/248135457/5047913a77), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
 - 참고자료
-  - 가상환경과 Package 활용하기 - [강의영  상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
+ - 가상환경과 Package 활용하기 - [강의영  상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
 
 ### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
@@ -84,20 +84,22 @@
 
 ### Chapter 5 - Pandas Section #2
 #### Lecture
-- Groupby
-- Pivot table & Crosstab
-- Merg & Concat
-- Lab assignment
-- Database connection & Persistance
-- Data Cleaning Problem Overview - [강의영상](https://vimeo.com/225920938) [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZtJnCJXP_JZLMnHQg)
-- Missing Values - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/missing_value.ipynb)
-- Categoical Data Handling - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/classification_data.ipynb)
-- Feature Scaling - [강의영상](https://vimeo.com/226023593), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZwoqBEaBJZxTtuaSA), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/feature_scaling.ipynb)
+- Chapter Intro - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQa8FVnGK2l1QaSJg), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch5), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch5.zip)
+- Groupby I - [강의영상](https://vimeo.com/251414689/bec857e289)
+- Groupby II - [강의영상](https://vimeo.com/251414707/828423acf8)
+- Casestudy - [강의영상](https://vimeo.com/251284738/37d0935264)
+- Pivot table & Crosstab - [강의영상](https://vimeo.com/251330503/6daad27d7f)
+- Merg & Concat - [강의영상](https://vimeo.com/251330570/5b6bc44864)
+- Database connection & Persistance - [강의영상](https://vimeo.com/251330534/a04645438d)
 
 
 ### Chapter 6 - Matplotlib Section & Miniproject
 #### Lecture
 - Chapter overview - Matplotlib overview
+- Data Cleaning Problem Overview - [강의영상](https://vimeo.com/225920938) [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZtJnCJXP_JZLMnHQg)
+- Missing Values - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/missing_value.ipynb)
+- Categoical Data Handling - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/classification_data.ipynb)
+- Feature Scaling - [강의영상](https://vimeo.com/226023593), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZwoqBEaBJZxTtuaSA), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/feature_scaling.ipynb)
 - Basic functions & operations
 - Graph
 - Matplotlib with pandas
@@ -214,20 +216,20 @@
 
 ## Prerequisites - 수강전 이수 또는 수강중 들었으면 하는 교과들
 * 입문 수준의 통계학
-    - [세상에서 가장 쉬운 통계학](http://www.yes24.com/24/goods/3625262?scode=032&OzSrank=1)(고지마 히로유키, 2009)
-    - [세상에서 가장 쉬운 베이즈통계학입문](http://www.yes24.com/24/goods/36928073?scode=032&OzSrank=2)(고지마 히로유키, 2017)
-    - [확률과통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)(한양대학교 이상화 교수, 2014)
-    - Reading Materials: Data Science from Scratch - Ch.5, Ch.6, Ch.7
+   - [세상에서 가장 쉬운 통계학](http://www.yes24.com/24/goods/3625262?scode=032&OzSrank=1)(고지마 히로유키, 2009)
+   - [세상에서 가장 쉬운 베이즈통계학입문](http://www.yes24.com/24/goods/36928073?scode=032&OzSrank=2)(고지마 히로유키, 2017)
+   - [확률과통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)(한양대학교 이상화 교수, 2014)
+   - Reading Materials: Data Science from Scratch - Ch.5, Ch.6, Ch.7
 * 고교 이과 수준의 선형대수학 (Matrix와 Vector의 기본개념은 Review 필요)
-    - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)(3Blue1Brown, 2017)
-    - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)(Khan Academy)
-    - [선형대수학](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)(한양대 이상화 교수, 2013) - Advance Course
-    - Reading Materials - Data Science from Scratch - Ch.4
+   - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)(3Blue1Brown, 2017)
+   - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)(Khan Academy)
+   - [선형대수학](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)(한양대 이상화 교수, 2013) - Advance Course
+   - Reading Materials - Data Science from Scratch - Ch.4
 * 고교 이과 수준의 미적분학 (개념에 대한 이해 필요)
-    - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)(3Blue1Brown, 2017)
+   - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)(3Blue1Brown, 2017)
 * 파이썬 기초
-    - [데이터 과학을 위한 파이썬 입문](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/) (TEAMLAB, 2017)
+   - [데이터 과학을 위한 파이썬 입문](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/) (TEAMLAB, 2017)
 * Git
-    - [Pro Git](http://www.yes24.com/24/goods/24841824?scode=032&OzSrank=1) (스캇 샤콘 | 벤 스트라웁, 2016)
-    - [Git & Github](https://www.youtube.com/playlist?list=PLBHVuYlKEkULuUe_Ca3wiaFon6dPWIWAZ) (TEAMLAB, 2016)
-    - [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap) (생활코딩, 2014)
+   - [Pro Git](http://www.yes24.com/24/goods/24841824?scode=032&OzSrank=1) (스캇 샤콘 | 벤 스트라웁, 2016)
+   - [Git & Github](https://www.youtube.com/playlist?list=PLBHVuYlKEkULuUe_Ca3wiaFon6dPWIWAZ) (TEAMLAB, 2016)
+   - [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap) (생활코딩, 2014)
