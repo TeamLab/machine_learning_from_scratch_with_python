@@ -85,8 +85,8 @@
 ### Chapter 5 - Pandas Section #2
 #### Lecture
 - Chapter Intro - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQa8FVnGK2l1QaSJg), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch5), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch5.zip)
-- Groupby I - [강의영상](https://vimeo.com/251414689/bec857e289)
-- Groupby II - [강의영상](https://vimeo.com/251414707/828423acf8)
+- Groupby I - [강의영상](https://vimeo.com/253185232/9bfc816ee9)
+- Groupby II - [강의영상](https://vimeo.com/253185540/4bb45d7a09)
 - Casestudy - [강의영상](https://vimeo.com/251284738/37d0935264)
 - Pivot table & Crosstab - [강의영상](https://vimeo.com/251330503/6daad27d7f)
 - Merg & Concat - [강의영상](https://vimeo.com/251330570/5b6bc44864)
