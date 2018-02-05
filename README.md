@@ -85,8 +85,8 @@
 ### Chapter 5 - Pandas Section #2
 #### Lecture
 - Chapter Intro - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQa8FVnGK2l1QaSJg), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch5), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch5.zip)
-- Groupby I - [강의영상](https://vimeo.com/251414689/bec857e289)
-- Groupby II - [강의영상](https://vimeo.com/251414707/828423acf8)
+- Groupby I - [강의영상](https://vimeo.com/253185232/9bfc816ee9)
+- Groupby II - [강의영상](https://vimeo.com/253185540/4bb45d7a09)
 - Casestudy - [강의영상](https://vimeo.com/251284738/37d0935264)
 - Pivot table & Crosstab - [강의영상](https://vimeo.com/251330503/6daad27d7f)
 - Merg & Concat - [강의영상](https://vimeo.com/251330570/5b6bc44864)
@@ -95,16 +95,16 @@
 
 ### Chapter 6 - Matplotlib Section & Miniproject
 #### Lecture
-- Chapter overview - Matplotlib overview
-- Data Cleaning Problem Overview - [강의영상](https://vimeo.com/225920938) [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZtJnCJXP_JZLMnHQg)
-- Missing Values - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/missing_value.ipynb)
-- Categoical Data Handling - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/classification_data.ipynb)
-- Feature Scaling - [강의영상](https://vimeo.com/226023593), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZwoqBEaBJZxTtuaSA), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch3/feature_scaling.ipynb)
-- Basic functions & operations
-- Graph
-- Matplotlib with pandas
-- Casestudy - KagglepProblems
-- Miniproject - Preprocessing works for House Price Problmes
+- Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQw-lIv5reI4vIvfw), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch6), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch6.zip)
+- Matplotlib overview - [강의영상](https://vimeo.com/251573557/ddc320446a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQbz6fWa08EHSdGOQ)
+- Basic functions & operations - [강의영상](https://vimeo.com/251769481/5fbe305ead)
+- Graph - [강의영상](https://vimeo.com/251769953/73644ee23e)
+- Matplotlib with pandas - [강의영상](https://vimeo.com/251821603/0447d31022)
+- Data Cleaning Problem Overview - [강의영상](https://vimeo.com/252468585/0c24256410), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQmT5xxHDG16NqLmA)
+- Missing Values - [강의영상](https://vimeo.com/252468679/68a3b62101)
+- Categorical Data Handling - [강의영상](https://vimeo.com/252468833/8b7bc89171)
+- Feature Scaling - [강의영상](https://vimeo.com/252469008/7091d9aab0)
+- Casestudy - KagglepProblems - [강의영상](https://vimeo.com/252469298/ac905e9f97), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQo6vgHDZvp3vT5Wg)
 
 
 ### Chapter 7 - Linear Regression
