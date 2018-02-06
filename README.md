@@ -109,15 +109,17 @@
 
 ### Chapter 7 - Linear Regression
 #### Lecture
-- Linear regression overview
-- Cost functions
-- Linear Equality
-- Gradient descent approach
-- Linear regression wtih gradient descent
-- Linear regression wtih Numpy
-- Multivariate linear regression models
-- Multivariate linear regression with NumPy
-- Lab Assignment
+- Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRTHSfpYrbR5D8wNQ), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch7), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch7.zip)
+- Linear regression overview - [강의영상](https://vimeo.com/254316917/a63ddb889c)
+- Cost functions - [강의영상](https://vimeo.com/254316943/b2907cf716)
+- Normal equation - [강의영상](https://vimeo.com/254317793/602d3132f6)
+- Lab Assignment: Build a matrix -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_linear_model.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/5_normal_equation)
+- Gradient descent approach - [강의영상](https://vimeo.com/254317156/6a101f5f54)
+- Linear regression wtih gradient descent - [강의영상](https://vimeo.com/254316980/520c7fd462)
+- Linear regression implementation wtih Numpy - [강의영상](https://vimeo.com/254408998/2913ccc5f3)
+- Multivariate linear regression models - [강의영상](https://vimeo.com/254408924/fbdc622b7c)
+- Performance measure for a regression model - [강의영상](https://vimeo.com/254408950/ec2c85c010)
+- Linear regression implementation wtih scikit-learn - [https://vimeo.com/254408973/50db14a47b]
 
 ### Chapter 8 - Linear Regression extended
 #### Lecture
