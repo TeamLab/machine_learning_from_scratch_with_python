@@ -119,7 +119,7 @@
 - Linear regression implementation wtih Numpy - [강의영상](https://vimeo.com/254408998/2913ccc5f3)
 - Multivariate linear regression models - [강의영상](https://vimeo.com/254408924/fbdc622b7c)
 - Performance measure for a regression model - [강의영상](https://vimeo.com/254408950/ec2c85c010)
-- Linear regression implementation wtih scikit-learn - 강의영상[https://vimeo.com/254408973/50db14a47b]
+- Linear regression implementation wtih scikit-learn - [강의영상](https://vimeo.com/254408973/50db14a47b)
 
 ### Chapter 8 - Linear Regression extended
 #### Lecture
