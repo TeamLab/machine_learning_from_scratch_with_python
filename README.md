@@ -113,7 +113,7 @@
 - Linear regression overview - [강의영상](https://vimeo.com/254316917/a63ddb889c)
 - Cost functions - [강의영상](https://vimeo.com/254316943/b2907cf716)
 - Normal equation - [강의영상](https://vimeo.com/254317793/602d3132f6)
-- Lab Assignment: Build a matrix -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_linear_model.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/5_normal_equation)
+- Lab Assignment: Normal equation -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_linear_model.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/5_normal_equation)
 - Gradient descent approach - [강의영상](https://vimeo.com/254317156/6a101f5f54)
 - Linear regression wtih gradient descent - [강의영상](https://vimeo.com/254316980/520c7fd462)
 - Linear regression implementation wtih Numpy - [강의영상](https://vimeo.com/254408998/2913ccc5f3)
