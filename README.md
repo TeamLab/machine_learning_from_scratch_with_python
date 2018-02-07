@@ -123,12 +123,12 @@
 
 ### Chapter 8 - Linear Regression extended
 #### Lecture
-- Overfitting - bias vs. variance
-- Regularization - L1 and L2
+- Stochastic gradient descent
+- Regularization - L1, L2, ElasticNet
+- sklearn SGD family
 - Implementation of generalization with NumPy
 - Linear regression with sklearn
 - Polynomial regression
-- sklearn SGD family
 - Performance measure
 - Traing, test and Validation concepts
 
