@@ -120,17 +120,15 @@
 - Multivariate linear regression models - [강의영상](https://vimeo.com/254408924/fbdc622b7c)
 - Performance measure for a regression model - [강의영상](https://vimeo.com/254408950/ec2c85c010)
 - Linear regression implementation wtih scikit-learn - [강의영상](https://vimeo.com/254408973/50db14a47b)
+- Lab Assignment: Gradient descent -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_linear_model_gd.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/6_gradient_descent)
 
 ### Chapter 8 - Linear Regression extended
 #### Lecture
 - Stochastic gradient descent
-- Regularization - L1, L2, ElasticNet
-- sklearn SGD family
-- Implementation of generalization with NumPy
-- Linear regression with sklearn
-- Polynomial regression
-- Performance measure
-- Traing, test and Validation concepts
+- SGD implementation issues
+- Overfitting
+- Regularization - L1, L2
+- sklearn Linear Model family
 
 
 ### Chapter 9 - Logistics Regression
