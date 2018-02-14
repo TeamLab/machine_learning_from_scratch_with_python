@@ -124,11 +124,12 @@
 
 ### Chapter 8 - Linear Regression extended
 #### Lecture
-- Stochastic gradient descent
-- SGD implementation issues
-- Overfitting
-- Regularization - L1, L2
-- sklearn Linear Model family
+- Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRTHSfpYrbR5D8wNQ), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch8), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch8.zip)
+- Stochastic gradient descent - [강의영상](https://vimeo.com/255385405/cc3cbd1f3c)
+- SGD implementation issues - [강의영상](https://vimeo.com/255385567/e57c9e7b16)
+- Overfitting and regularization overview - [강의영상](https://vimeo.com/255568128/cbaa0cbe5b)
+- Regularization - L1, L2 - [강의영상](https://vimeo.com/255682381/41393681bb)
+- sklearn Linear Model family - [강의영상](https://vimeo.com/255682163/baf3549426)
 
 
 ### Chapter 9 - Logistics Regression
