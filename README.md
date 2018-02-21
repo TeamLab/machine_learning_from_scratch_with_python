@@ -132,7 +132,7 @@
 - sklearn Linear Model family - [강의영상](https://vimeo.com/255682163/baf3549426)
 - Polynomial regression  - [강의영상](https://vimeo.com/256603048/901c26d2be)
 - Sampling method - [강의영상](https://vimeo.com/256603180/fd9c478a50)
-- Kaggle project : Bike demand  - [강의영상]()
+- Kaggle project : Bike demand  - [강의영상](https://vimeo.com/256773298/1a73592a47)
 
 
 ### Chapter 9 - Logistics Regression
