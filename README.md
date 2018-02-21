@@ -124,12 +124,15 @@
 
 ### Chapter 8 - Linear Regression extended
 #### Lecture
-- Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRTHSfpYrbR5D8wNQ), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch8), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch8.zip)
+- Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRTHSfpYrbR5D8wNQ), [강의코드](https://1drv.ms/b/s!ApZ4mg7k2qYhgaUEwtbgkp_vjGAstw), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch8.zip)
 - Stochastic gradient descent - [강의영상](https://vimeo.com/255385405/cc3cbd1f3c)
 - SGD implementation issues - [강의영상](https://vimeo.com/255385567/e57c9e7b16)
 - Overfitting and regularization overview - [강의영상](https://vimeo.com/255568128/cbaa0cbe5b)
 - Regularization - L1, L2 - [강의영상](https://vimeo.com/255682381/41393681bb)
 - sklearn Linear Model family - [강의영상](https://vimeo.com/255682163/baf3549426)
+- Polynomial regression  - [강의영상](https://vimeo.com/256603048/901c26d2be)
+- Sampling method - [강의영상](https://vimeo.com/256603180/fd9c478a50)
+- Kaggle project : Bike demand  - [강의영상]()
 
 
 ### Chapter 9 - Logistics Regression
@@ -234,3 +237,6 @@
    - [Pro Git](http://www.yes24.com/24/goods/24841824?scode=032&OzSrank=1) (스캇 샤콘 | 벤 스트라웁, 2016)
    - [Git & Github](https://www.youtube.com/playlist?list=PLBHVuYlKEkULuUe_Ca3wiaFon6dPWIWAZ) (TEAMLAB, 2016)
    - [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap) (생활코딩, 2014)
+
+## 키워드
+머신러닝, 머신러닝 강좌, 머신러닝 입문, Machine Leaning 입문, Machione Learning 강좌, 머신러닝 강의, 머신러닝 MOOC, Linear Regression, 선형회귀, 앙상블, 딥러닝, 뉴럴넷, 파이썬, python, 파이썬 입문, 파이썬 강좌, Python 입문, 파이썬 강좌, 파이썬 강의, Python 강의, Python MOOC, 데이터마이닝, Data mining, 가천대 최성철, 최성철 교수, 프로그래밍 입문, 프로그래밍 강좌, 코딩, 코딩 입문, 데이터 과학, 데이터 사이언스, Data science
