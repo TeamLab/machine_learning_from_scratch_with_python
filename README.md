@@ -137,13 +137,14 @@
 
 ### Chapter 9 - Logistics Regression
 #### Lecture
-- Logistic regression overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxF5t2M775fPWuKYg), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/1_classification_problem_overview.ipynb)
-- Sigmoid function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxGoJdeBtkFlFYYbQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/2_sigmoid_function_overview.ipynb)
-- Cost function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxRogjXDgLw2PM8qQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/3_logistic_regression_with_numpy.ipynb)
-- Logistic regression implementation with Numpy- [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxUrqLUo0LdaFhDhw), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch6/4_Logistic_Regression_with_sklearn.ipynb)
-- Maximum Likelihood estimation - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZxVYvviY0gCYo0kdQ)
-- Regularization problems
-- Logistic regresion with sklearn
+- Chapter overview - [강의영상](https://vimeo.com/249674832/64fda89754), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaVAxGSMqXNryj0Ydg), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch9)
+[강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRTHSfpYrbR5D8wNQ), [강의코드](https://1drv.ms/b/s!ApZ4mg7k2qYhgaUEwtbgkp_vjGAstw), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch8.zip)
+- Logistic regression overview - [강의영상](https://vimeo.com/258218955/19f1193c49)
+- Sigmoid function - [강의영상](https://vimeo.com/258219026/583841f34d)
+- Cost function - [강의영상](https://vimeo.com/258219105/6dec19085d)
+- Logistic regression implementation with numpy - [강의영상](https://vimeo.com/258219162/891fd45245)
+- Maximum Likelyhood Estimation - [강의영상](https://vimeo.com/258219016/3337867fa9)
+
 
 ### Chapter 10 - Logistics Regression extended
 #### Lecture
