@@ -144,6 +144,9 @@
 - Cost function - [강의영상](https://vimeo.com/258219105/6dec19085d)
 - Logistic regression implementation with numpy - [강의영상](https://vimeo.com/258219162/891fd45245)
 - Maximum Likelyhood Estimation - [강의영상](https://vimeo.com/258219016/3337867fa9)
+- Logistic regression with scikit-learn - [강의영상](https://vimeo.com/258570220/60c5759d79)
+- Confusion matrix - [강의영상](https://vimeo.com/258570335/2de79f7ef9)
+- Performance metrics for classification - [강의영상](https://vimeo.com/258570350/dd0ad37bc9)
 
 
 ### Chapter 10 - Logistics Regression extended
