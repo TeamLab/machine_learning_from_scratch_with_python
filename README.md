@@ -137,8 +137,7 @@
 
 ### Chapter 9 - Logistics Regression
 #### Lecture
-- Chapter overview - [강의영상](https://vimeo.com/249674832/64fda89754), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaVAxGSMqXNryj0Ydg), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch9)
-[강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRTHSfpYrbR5D8wNQ), [강의코드](https://1drv.ms/b/s!ApZ4mg7k2qYhgaUEwtbgkp_vjGAstw), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch8.zip)
+- Chapter overview - [강의영상](https://vimeo.com/249674832/64fda89754), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhga1n8BQpW4XZ7qVwkQ), [강의코드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch9.zip)
 - Logistic regression overview - [강의영상](https://vimeo.com/258218955/19f1193c49)
 - Sigmoid function - [강의영상](https://vimeo.com/258219026/583841f34d)
 - Cost function - [강의영상](https://vimeo.com/258219105/6dec19085d)
@@ -147,6 +146,7 @@
 - Logistic regression with scikit-learn - [강의영상](https://vimeo.com/258570220/60c5759d79)
 - Confusion matrix - [강의영상](https://vimeo.com/258570335/2de79f7ef9)
 - Performance metrics for classification - [강의영상](https://vimeo.com/258570350/dd0ad37bc9)
+- ROC curve & AUC - [강의영상](https://vimeo.com/258772854/9aca44e022)
 
 
 ### Chapter 10 - Logistics Regression extended
