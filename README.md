@@ -151,14 +151,17 @@
 
 ### Chapter 10 - Logistics Regression extended
 #### Lecture
-- Softmax fucntion for Multi-class classification - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ0FZz4IKV8XQpCFwg)
-- Cross entropy loss function - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ1yFta91iSgNqon3g)
-- Softmax regression - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ1xWe3b8oZv1quiig)
-- Performance measures for classification
-- ROC Curve & AUC
+- Multiclass Classification overview
+- Softmax function #1
+- Softmax function #2
+- Softmax regression with numpy
+- Performance metrics for classification
+- Multiclass classification with Numpy
 - Hyperparmeter searching
 - Data sampling method
-- Handling imbalanced dataset - Oversamplingm, Undersampling, and SMOTE
+- Imbalanced dataset #1
+- Imbalanced dataset #2
+- Imbalanced dataset #3 SMOTE
 
 ### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
