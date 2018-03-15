@@ -26,17 +26,19 @@
 
 
 ## Course Contents
+- Course Overvier = [강의영상](https://www.youtube.com/watch?v=E3WsXxTe4SI&index=1&t=102s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+
 ### Chapter 1 - Introduction to Machine Learning
-- Machine learning overview - [강의영상](https://vimeo.com/247764673/aabdcb012b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
-- An understanding of the data keywords - [강의영상](https://vimeo.com/248134839/41beebbb52), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNWzCy7_qdMbAAYmQ)
-- How to learn machine learning - [강의영상](https://vimeo.com/247903234/d1be4a892d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNX7i9JHPB04EwT3g)
-- Types of machine learning - [강의영상](https://vimeo.com/247903499/be2133e5e4), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNYJGXJnnhTP1Ckgg)
-- Data era: In a perspective of business - [강의영상](https://vimeo.com/247797541/2eff79192d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNryl5eqXo-uKrU4A)
+- Machine learning overview - [강의영상](https://www.youtube.com/watch?v=5b-fCpzBF48&index=2&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
+- An understanding of the data keywords - [강의영상](https://www.youtube.com/watch?v=1Z-lT4ooSFY&index=3&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNWzCy7_qdMbAAYmQ)
+- How to learn machine learning - [강의영상](https://www.youtube.com/watch?v=-2f3QZsUGp8&index=4&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNX7i9JHPB04EwT3g)
+- Types of machine learning - [강의영상](https://www.youtube.com/watch?v=Xmd-7nLg_Xo&index=5&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNYJGXJnnhTP1Ckgg)
+- Data era: In a perspective of business - [강의영상](https://www.youtube.com/watch?v=OFtGEVrgmcA&index=6&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNryl5eqXo-uKrU4A)
 - Environment setup
- - Python ecosystem for machine learning - [강의영상](https://vimeo.com/247903638/96dc854a53), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
- - How to use Jupyter Notebook - [강의영상](https://vimeo.com/248135457/5047913a77), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
+ - Python ecosystem for machine learning - [강의영상](https://www.youtube.com/watch?v=P4dOSb0jcUw&index=7&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
+ - How to use Jupyter Notebook - [강의영상](https://www.youtube.com/watch?v=Hz_k_0sOv-w&index=8&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
 - 참고자료
- - 가상환경과 Package 활용하기 - [강의영  상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
+ - 가상환경과 Package 활용하기 - [강의영상](https://www.youtube.com/watch?v=429HUdO3eko&t=25s&index=77&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://doc.co/SoCj3W/EFk5T6)
 
 ### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
