@@ -101,12 +101,12 @@
 - Matplotlib overview - [강의영상](https://www.youtube.com/watch?v=xDrpfYfFRgo&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=1s&index=40), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQbz6fWa08EHSdGOQ)
 - Basic functions & operations - [강의영상](https://www.youtube.com/watch?v=ZKfsU9TTENg&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=41)
 - Graph - [강의영상](https://www.youtube.com/watch?v=bm6ca6wVW_4&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=42)
-- Matplotlib with pandas - [강의영상]()
-- Data Cleaning Problem Overview - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQmT5xxHDG16NqLmA)
-- Missing Values - [강의영상]()
-- Categorical Data Handling - [강의영상]()
-- Feature Scaling - [강의영상]()
-- Casestudy - KagglepProblems - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQo6vgHDZvp3vT5Wg)
+- Matplotlib with pandas - [강의영상](https://www.youtube.com/watch?v=e2PT_AquiqI&t=0s&index=43&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Data Cleaning Problem Overview - [강의영상](https://www.youtube.com/watch?v=0oYpUPrpHAc&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&index=44), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQmT5xxHDG16NqLmA)
+- Missing Values - [강의영상](https://www.youtube.com/watch?v=fdYXjmSdHfk&t=2s&index=45&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Categorical Data Handling - [강의영상](https://www.youtube.com/watch?v=YW5iqJV9qUc&t=3s&index=46&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Feature Scaling - [강의영상](https://www.youtube.com/watch?v=gT3lvasKe8g&t=3s&index=47&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Casestudy - KagglepProblems - [강의영상](https://www.youtube.com/watch?v=dXjiJGxgGts&t=0s&index=48&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQo6vgHDZvp3vT5Wg)
 
 
 ### Chapter 7 - Linear Regression
