@@ -42,11 +42,11 @@
 
 ### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
-- Chapter Intro - [강의영상](https://vimeo.com/248476105/2244b5a8fe), [강의자료모음](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNx-2ElufG5PAPXYA), [코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch2)
-- The concepts of a feature - [강의영상](https://vimeo.com/248135476/30221dd1c0), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNeJhTRwFjT-bGVDw)
-- Data types - [강의영상](https://vimeo.com/248135502/0247ac40cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNfXxiglrHTYuOtlQ)
-- Loading data with pandas - [강의영상](https://vimeo.com/248135531/09d2e1583f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNgvdCPoeAyNSGDwg)
-- Representing a model with numpy - [강의영상](https://vimeo.com/248429135/80a20f04b8), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
+- Chapter Intro - [강의영상](https://www.youtube.com/watch?v=DQ16O_AEhfw&index=9&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료모음](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNx-2ElufG5PAPXYA), [코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch2)
+- The concepts of a feature - [강의영상](https://www.youtube.com/watch?v=9FJ6bB6TgNA&index=10&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNeJhTRwFjT-bGVDw)
+- Data types - [강의영상](https://www.youtube.com/watch?v=HrU9_kL8IW0&index=11&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNfXxiglrHTYuOtlQ)
+- Loading data with pandas - [강의영상](https://www.youtube.com/watch?v=62TDGqIiIWc&index=12&t=19s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNgvdCPoeAyNSGDwg)
+- Representing a model with numpy - [강의영상](https://www.youtube.com/watch?v=usEs6GW9mt0&index=13&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
 
 #### Supplements - Linear algebra
 - Lab: Simple Linear algebra concepts - [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
@@ -56,17 +56,17 @@
 
 ### Chapter 3 - Numpy Section
 #### Lecture
-- Chapter Intro - [강의영상](https://vimeo.com/249674805/e3f21116ab), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch3), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch3.zip)
-- Numpy overview - [강의영상](https://vimeo.com/248743492/702e0b7cb9)
-- ndarray - [강의영상](https://vimeo.com/248743595/2bb4044b0f)
-- Handling shape - [강의영상](https://vimeo.com/248743660/f7556bf9f0)
-- Indexing & Slicing - [강의영상](https://vimeo.com/249209302/5684d9c74d)
-- Creation functions - [강의영상](https://vimeo.com/249209309/928603c39f)
-- Opertaion functions - [강의영상](https://vimeo.com/249209319/6a91bf02e2)
-- Array operations - [강의영상](https://vimeo.com/249209338/aa25a7d5fa)
-- Comparisons - [강의영상](https://vimeo.com/249209348/2d08684423)
-- Boolean & fancy Index - [강의영상](https://vimeo.com/249931252/08b426eceb)
-- Numpy data i/o - [강의영상](https://vimeo.com/249931258/74a7d3812d)
+- Chapter Intro - [강의영상](https://www.youtube.com/watch?v=NIWYNg8Gh70&index=14&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch3), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch3.zip)
+- Numpy overview - [강의영상](https://www.youtube.com/watch?v=aHthqCgsSFs&index=15&t=80s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- ndarray - [강의영상]https://www.youtube.com/watch?v=0uNh9qrFUJE&index=16&t=15s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Handling shape - [강의영상](https://www.youtube.com/watch?v=yHD1ApkUWRQ&index=17&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Indexing & Slicing - [강의영상](https://www.youtube.com/watch?v=1sH_HrRirbY&index=18&t=76s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Creation functions - [강의영상](https://www.youtube.com/watch?v=GcP0uvZCgZM&index=19&t=4s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Opertaion functions - [강의영상](https://www.youtube.com/watch?v=H6wx5PEkwoA&index=20&t=39s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Array operations - [강의영상](https://www.youtube.com/watch?v=whtNpVWYLIo&index=21&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Comparisons - [강의영상](https://www.youtube.com/watch?v=TdVSKlgvdkA&index=22&t=27s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Boolean & fancy Index - [강의영상](https://www.youtube.com/watch?v=A2BT1sWKaUE&index=23&t=1s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Numpy data i/o - [강의영상](https://www.youtube.com/watch?v=N4KjOIs-2H8&index=24&t=51s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 - Assignment: Numpy in a nutshell -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_numpy.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/1_lab_numpy)
 
 #### Supplements
