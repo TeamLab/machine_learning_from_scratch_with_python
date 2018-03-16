@@ -153,17 +153,18 @@
 
 ### Chapter 10 - Logistics Regression extended
 #### Lecture
-- Multiclass Classification overview
-- Softmax function #1
-- Softmax function #2
-- Softmax regression with numpy
-- Performance metrics for classification
-- Multiclass classification with Numpy
-- Hyperparmeter searching
+- Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhga4ADmy-bPQPjynS7w), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch10)
+- Multiclass Classification overview - [강의영상](https://vimeo.com/260354045/b89c3972cf)
+- Softmax function #1 - [강의영상](https://vimeo.com/260354075/090e29741d)
+- Softmax function #2 - [강의영상](https://vimeo.com/260376690/3dafb3bc7f)
+- Softmax regression with numpy - [강의영상](https://vimeo.com/260376761/3ca5698add)
+- Performance metrics for classification - [강의영상](https://vimeo.com/260376874/b972955fbb)
+- Multiclass classification with scikit-learn - [강의영상](https://vimeo.com/260376409/14a54be975)
+<!-- - Hyperparmeter searching
 - Data sampling method
 - Imbalanced dataset #1
 - Imbalanced dataset #2
-- Imbalanced dataset #3 SMOTE
+- Imbalanced dataset #3 SMOTE -->
 
 ### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
