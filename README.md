@@ -58,7 +58,7 @@
 #### Lecture
 - Chapter Intro - [강의영상](https://www.youtube.com/watch?v=NIWYNg8Gh70&index=14&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch3), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch3.zip)
 - Numpy overview - [강의영상](https://www.youtube.com/watch?v=aHthqCgsSFs&index=15&t=80s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
-- ndarray - [강의영상]https://www.youtube.com/watch?v=0uNh9qrFUJE&index=16&t=15s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- ndarray - [강의영상](https://www.youtube.com/watch?v=0uNh9qrFUJE&index=16&t=15s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 - Handling shape - [강의영상](https://www.youtube.com/watch?v=yHD1ApkUWRQ&index=17&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 - Indexing & Slicing - [강의영상](https://www.youtube.com/watch?v=1sH_HrRirbY&index=18&t=76s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 - Creation functions - [강의영상](https://www.youtube.com/watch?v=GcP0uvZCgZM&index=19&t=4s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
