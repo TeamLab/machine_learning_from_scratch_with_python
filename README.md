@@ -26,25 +26,27 @@
 
 
 ## Course Contents
+- Course Overvier = [강의영상](https://www.youtube.com/watch?v=E3WsXxTe4SI&index=1&t=102s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+
 ### Chapter 1 - Introduction to Machine Learning
-- Machine learning overview - [강의영상](https://vimeo.com/247764673/aabdcb012b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
-- An understanding of the data keywords - [강의영상](https://vimeo.com/248134839/41beebbb52), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNWzCy7_qdMbAAYmQ)
-- How to learn machine learning - [강의영상](https://vimeo.com/247903234/d1be4a892d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNX7i9JHPB04EwT3g)
-- Types of machine learning - [강의영상](https://vimeo.com/247903499/be2133e5e4), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNYJGXJnnhTP1Ckgg)
-- Data era: In a perspective of business - [강의영상](https://vimeo.com/247797541/2eff79192d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNryl5eqXo-uKrU4A)
+- Machine learning overview - [강의영상](https://www.youtube.com/watch?v=5b-fCpzBF48&index=2&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
+- An understanding of the data keywords - [강의영상](https://www.youtube.com/watch?v=1Z-lT4ooSFY&index=3&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNWzCy7_qdMbAAYmQ)
+- How to learn machine learning - [강의영상](https://www.youtube.com/watch?v=-2f3QZsUGp8&index=4&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNX7i9JHPB04EwT3g)
+- Types of machine learning - [강의영상](https://www.youtube.com/watch?v=Xmd-7nLg_Xo&index=5&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNYJGXJnnhTP1Ckgg)
+- Data era: In a perspective of business - [강의영상](https://www.youtube.com/watch?v=OFtGEVrgmcA&index=6&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNryl5eqXo-uKrU4A)
 - Environment setup
- - Python ecosystem for machine learning - [강의영상](https://vimeo.com/247903638/96dc854a53), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
- - How to use Jupyter Notebook - [강의영상](https://vimeo.com/248135457/5047913a77), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
+ - Python ecosystem for machine learning - [강의영상](https://www.youtube.com/watch?v=P4dOSb0jcUw&index=7&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
+ - How to use Jupyter Notebook - [강의영상](https://www.youtube.com/watch?v=Hz_k_0sOv-w&index=8&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
 - 참고자료
- - 가상환경과 Package 활용하기 - [강의영  상](https://www.youtube.com/watch?v=QLF5UvUvKCo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=51), [강의자료](https://doc.co/SoCj3W/EFk5T6)
+ - 가상환경과 Package 활용하기 - [강의영상](https://www.youtube.com/watch?v=429HUdO3eko&t=25s&index=77&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://doc.co/SoCj3W/EFk5T6)
 
 ### Chapter 2 - Warm Up Section: An understanding of data
 #### Lecture
-- Chapter Intro - [강의영상](https://vimeo.com/248476105/2244b5a8fe), [강의자료모음](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNx-2ElufG5PAPXYA), [코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch2)
-- The concepts of a feature - [강의영상](https://vimeo.com/248135476/30221dd1c0), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNeJhTRwFjT-bGVDw)
-- Data types - [강의영상](https://vimeo.com/248135502/0247ac40cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNfXxiglrHTYuOtlQ)
-- Loading data with pandas - [강의영상](https://vimeo.com/248135531/09d2e1583f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNgvdCPoeAyNSGDwg)
-- Representing a model with numpy - [강의영상](https://vimeo.com/248429135/80a20f04b8), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
+- Chapter Intro - [강의영상](https://www.youtube.com/watch?v=DQ16O_AEhfw&index=9&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료모음](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNx-2ElufG5PAPXYA), [코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch2)
+- The concepts of a feature - [강의영상](https://www.youtube.com/watch?v=9FJ6bB6TgNA&index=10&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNeJhTRwFjT-bGVDw)
+- Data types - [강의영상](https://www.youtube.com/watch?v=HrU9_kL8IW0&index=11&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNfXxiglrHTYuOtlQ)
+- Loading data with pandas - [강의영상](https://www.youtube.com/watch?v=62TDGqIiIWc&index=12&t=19s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNgvdCPoeAyNSGDwg)
+- Representing a model with numpy - [강의영상](https://www.youtube.com/watch?v=usEs6GW9mt0&index=13&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
 
 #### Supplements - Linear algebra
 - Lab: Simple Linear algebra concepts - [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
@@ -54,17 +56,17 @@
 
 ### Chapter 3 - Numpy Section
 #### Lecture
-- Chapter Intro - [강의영상](https://vimeo.com/249674805/e3f21116ab), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch3), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch3.zip)
-- Numpy overview - [강의영상](https://vimeo.com/248743492/702e0b7cb9)
-- ndarray - [강의영상](https://vimeo.com/248743595/2bb4044b0f)
-- Handling shape - [강의영상](https://vimeo.com/248743660/f7556bf9f0)
-- Indexing & Slicing - [강의영상](https://vimeo.com/249209302/5684d9c74d)
-- Creation functions - [강의영상](https://vimeo.com/249209309/928603c39f)
-- Opertaion functions - [강의영상](https://vimeo.com/249209319/6a91bf02e2)
-- Array operations - [강의영상](https://vimeo.com/249209338/aa25a7d5fa)
-- Comparisons - [강의영상](https://vimeo.com/249209348/2d08684423)
-- Boolean & fancy Index - [강의영상](https://vimeo.com/249931252/08b426eceb)
-- Numpy data i/o - [강의영상](https://vimeo.com/249931258/74a7d3812d)
+- Chapter Intro - [강의영상](https://www.youtube.com/watch?v=NIWYNg8Gh70&index=14&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNyqXoFReKxEoauMA), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch3), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch3.zip)
+- Numpy overview - [강의영상](https://www.youtube.com/watch?v=aHthqCgsSFs&index=15&t=80s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- ndarray - [강의영상](https://www.youtube.com/watch?v=0uNh9qrFUJE&index=16&t=15s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Handling shape - [강의영상](https://www.youtube.com/watch?v=yHD1ApkUWRQ&index=17&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Indexing & Slicing - [강의영상](https://www.youtube.com/watch?v=1sH_HrRirbY&index=18&t=76s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Creation functions - [강의영상](https://www.youtube.com/watch?v=GcP0uvZCgZM&index=19&t=4s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Opertaion functions - [강의영상](https://www.youtube.com/watch?v=H6wx5PEkwoA&index=20&t=39s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Array operations - [강의영상](https://www.youtube.com/watch?v=whtNpVWYLIo&index=21&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Comparisons - [강의영상](https://www.youtube.com/watch?v=TdVSKlgvdkA&index=22&t=27s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Boolean & fancy Index - [강의영상](https://www.youtube.com/watch?v=A2BT1sWKaUE&index=23&t=1s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Numpy data i/o - [강의영상](https://www.youtube.com/watch?v=N4KjOIs-2H8&index=24&t=51s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 - Assignment: Numpy in a nutshell -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_numpy.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/1_lab_numpy)
 
 #### Supplements
@@ -72,39 +74,39 @@
 
 ### Chapter 4 - Pandas Section #1
 #### Lecture
-- Chapter Intro - [강의영상](https://vimeo.com/249674832/64fda89754), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQAO3rOwCot37nR8Q), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch4), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch4.zip)
-- Pandas overview - [강의영상](https://vimeo.com/249473330/d53678608e)
-- Series - [강의영상](https://vimeo.com/249473353/384f5b080f)
-- DataFrame - [강의영상](https://vimeo.com/249672906/3eefec3cdf)
-- Selection & Drop - [강의영상](https://vimeo.com/250073952/c3c93fcbad)
-- Dataframe operations - [강의영상](https://vimeo.com/250073459/5e8adab854)
-- lambda, map apply - [강의영상](https://vimeo.com/250073641/efc19a0483)
-- Pandas builit-in functions - [강의영상](https://vimeo.com/250073829/2cfe61c2bf)
+- Chapter Intro - [강의영상](https://www.youtube.com/watch?v=ktE6KFigdAk&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=25), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQAO3rOwCot37nR8Q), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch4), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch4.zip)
+- Pandas overview - [강의영상](https://www.youtube.com/watch?v=hGS9FC9fRbI&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=26)
+- Series - [강의영상](https://www.youtube.com/watch?v=24Jzr2FlKe4&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=27)
+- DataFrame - [강의영상](https://www.youtube.com/watch?v=AWkrnuESiYE&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=28)
+- Selection & Drop - [강의영상](https://www.youtube.com/watch?v=uU6OHj2vKAE&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=29)
+- Dataframe operations - [강의영상](https://www.youtube.com/watch?v=cFHLylUi0DA&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=30)
+- lambda, map apply - [강의영상](https://www.youtube.com/watch?v=e6D6onOzJy0&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=31)
+- Pandas builit-in functions - [강의영상](https://www.youtube.com/watch?v=mARDtwaphfM&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=32)
 - Lab Assignment: Build a matrix -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/build_matrix.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/2_lab_build_matrix)
 
 ### Chapter 5 - Pandas Section #2
 #### Lecture
 - Chapter Intro - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQa8FVnGK2l1QaSJg), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch5), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch5.zip)
-- Groupby I - [강의영상](https://vimeo.com/253185232/9bfc816ee9)
-- Groupby II - [강의영상](https://vimeo.com/253185540/4bb45d7a09)
-- Casestudy - [강의영상](https://vimeo.com/251284738/37d0935264)
-- Pivot table & Crosstab - [강의영상](https://vimeo.com/251330503/6daad27d7f)
-- Merg & Concat - [강의영상](https://vimeo.com/251330570/5b6bc44864)
-- Database connection & Persistance - [강의영상](https://vimeo.com/251330534/a04645438d)
+- Groupby I - [강의영상](https://www.youtube.com/watch?v=jRJt6PG2iHM&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=33)
+- Groupby II - [강의영상](https://www.youtube.com/watch?v=VeZTpY4qFag&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=34)
+- Casestudy - [강의영상](https://www.youtube.com/watch?v=sMfckmJUBeg&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=35)
+- Pivot table & Crosstab - [강의영상](https://www.youtube.com/watch?v=8y_gOCJWYaY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=36)
+- Merge & Concat - [강의영상](https://www.youtube.com/watch?v=bUjT1V67UhY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=37)
+- Database connection & Persistance - [강의영상](https://www.youtube.com/watch?v=c6kVMrfYs-Y&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=38)
 
 
 ### Chapter 6 - Matplotlib Section & Miniproject
 #### Lecture
-- Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQw-lIv5reI4vIvfw), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch6), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch6.zip)
-- Matplotlib overview - [강의영상](https://vimeo.com/251573557/ddc320446a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQbz6fWa08EHSdGOQ)
-- Basic functions & operations - [강의영상](https://vimeo.com/251769481/5fbe305ead)
-- Graph - [강의영상](https://vimeo.com/251769953/73644ee23e)
-- Matplotlib with pandas - [강의영상](https://vimeo.com/251821603/0447d31022)
-- Data Cleaning Problem Overview - [강의영상](https://vimeo.com/252468585/0c24256410), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQmT5xxHDG16NqLmA)
-- Missing Values - [강의영상](https://vimeo.com/252468679/68a3b62101)
-- Categorical Data Handling - [강의영상](https://vimeo.com/252468833/8b7bc89171)
-- Feature Scaling - [강의영상](https://vimeo.com/252469008/7091d9aab0)
-- Casestudy - KagglepProblems - [강의영상](https://vimeo.com/252469298/ac905e9f97), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQo6vgHDZvp3vT5Wg)
+- Chapter overview - [강의자료](https://www.youtube.com/watch?v=6fg2HggmqD8&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=39), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch6), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch6.zip)
+- Matplotlib overview - [강의영상](https://www.youtube.com/watch?v=xDrpfYfFRgo&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=1s&index=40), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQbz6fWa08EHSdGOQ)
+- Basic functions & operations - [강의영상](https://www.youtube.com/watch?v=ZKfsU9TTENg&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=41)
+- Graph - [강의영상](https://www.youtube.com/watch?v=bm6ca6wVW_4&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=42)
+- Matplotlib with pandas - [강의영상](https://www.youtube.com/watch?v=e2PT_AquiqI&t=0s&index=43&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Data Cleaning Problem Overview - [강의영상](https://www.youtube.com/watch?v=0oYpUPrpHAc&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&index=44), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQmT5xxHDG16NqLmA)
+- Missing Values - [강의영상](https://www.youtube.com/watch?v=fdYXjmSdHfk&t=2s&index=45&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Categorical Data Handling - [강의영상](https://www.youtube.com/watch?v=YW5iqJV9qUc&t=3s&index=46&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Feature Scaling - [강의영상](https://www.youtube.com/watch?v=gT3lvasKe8g&t=3s&index=47&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+- Casestudy - KagglepProblems - [강의영상](https://www.youtube.com/watch?v=dXjiJGxgGts&t=0s&index=48&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQo6vgHDZvp3vT5Wg)
 
 
 ### Chapter 7 - Linear Regression
@@ -151,26 +153,36 @@
 
 ### Chapter 10 - Logistics Regression extended
 #### Lecture
-- Multiclass Classification overview
-- Softmax function #1
-- Softmax function #2
-- Softmax regression with numpy
-- Performance metrics for classification
-- Multiclass classification with Numpy
-- Hyperparmeter searching
-- Data sampling method
-- Imbalanced dataset #1
-- Imbalanced dataset #2
-- Imbalanced dataset #3 SMOTE
+- Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhga4ADmy-bPQPjynS7w), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch10)
+- Multiclass Classification overview - [강의영상](https://vimeo.com/260354045/b89c3972cf)
+- Softmax function #1 - [강의영상](https://vimeo.com/260354075/090e29741d)
+- Softmax function #2 - [강의영상](https://vimeo.com/260376690/3dafb3bc7f)
+- Softmax regression with numpy - [강의영상](https://vimeo.com/260376761/3ca5698add)
+- Performance metrics for classification - [강의영상](https://vimeo.com/260376874/b972955fbb)
+- Multiclass classification with scikit-learn - [강의영상](https://vimeo.com/260376409/14a54be975)
+<!-- - Building classification service
+- Hyperparmeter searching -->
+
 
 ### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
-- Probability overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw5bsS7_Hh82H_-nQ)
-- Bayes theorem - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw64iusWzHbkpbQEA)
-- Single variable bayes classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw8yyWqa_5TMqFNHQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/1_simple_naive_bayes.ipynb)
-- Navie bayesian Classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw9TBgpt1ZVlL0G7Q), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/2_german_credit_application.ipynb)
-- NB classifier with sklearn - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/3_spam_filter_with_sklearn.ipynb)
-- Gaussian Normalization for Naive Bayesian
+- Chapter overview - [강의영상](https://vimeo.com/260920151/c8b62eb9f6)
+- Probability overview
+- Bayes' theorem
+- Single variable bayes classifier
+- Navie bayesian Classifier
+- NB Classifier Implementation
+- Gaussian Naive Bayes
+- Multinomial Naive Bayes
+- NB classifier with sklearn
+<!-- - Data sampling method
+- Imbalanced dataset #1
+- Imbalanced dataset #2
+- Imbalanced dataset #3 SMOTE
+- Imbalanced Dataset Kaggle -->
+
+#### Supplements
+- Text hadnling Lab: News categorization - [강의영상#1](https://vimeo.com/250774043/8af19915ca), [영상#2](https://vimeo.com/251102061/281f6362e1), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQGMbDTaK5uD6cjHg)
 
 ### Chapter 12 - Decision Tree
 #### Lecture
