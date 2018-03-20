@@ -160,20 +160,23 @@
 - Softmax regression with numpy - [강의영상](https://vimeo.com/260376761/3ca5698add)
 - Performance metrics for classification - [강의영상](https://vimeo.com/260376874/b972955fbb)
 - Multiclass classification with scikit-learn - [강의영상](https://vimeo.com/260376409/14a54be975)
-<!-- - Hyperparmeter searching
-- Data sampling method
-- Imbalanced dataset #1
-- Imbalanced dataset #2
-- Imbalanced dataset #3 SMOTE -->
+- Building classification service
+- Hyperparmeter searching
+
 
 ### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
+- Chapter overview - [강의영상](https://vimeo.com/260920151/c8b62eb9f6)
 - Probability overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw5bsS7_Hh82H_-nQ)
-- Bayes theorem - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw64iusWzHbkpbQEA)
+- Bayes' theorem - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw64iusWzHbkpbQEA)
 - Single variable bayes classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw8yyWqa_5TMqFNHQ), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/1_simple_naive_bayes.ipynb)
 - Navie bayesian Classifier - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZw9TBgpt1ZVlL0G7Q), [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/2_german_credit_application.ipynb)
 - NB classifier with sklearn - [code](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch8/3_spam_filter_with_sklearn.ipynb)
 - Gaussian Normalization for Naive Bayesian
+<!-- - Data sampling method
+- Imbalanced dataset #1
+- Imbalanced dataset #2
+- Imbalanced dataset #3 SMOTE --> -->
 
 ### Chapter 12 - Decision Tree
 #### Lecture
