@@ -167,8 +167,8 @@
 ### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
 - Chapter overview - [강의영상](https://vimeo.com/260920151/c8b62eb9f6)
-- Probability overview
-- Bayes' theorem
+- Probability overview - [강의영상]()
+- Bayes' theorem - [강의영상]()
 - Single variable bayes classifier
 - Navie bayesian Classifier
 - NB Classifier Implementation
