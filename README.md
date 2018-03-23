@@ -166,15 +166,15 @@
 
 ### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
-- Chapter overview - [강의영상](https://vimeo.com/260920151/c8b62eb9f6)
+- Chapter overview - [강의영상](https://vimeo.com/260920151/c8b62eb9f6), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_11.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch11)
 - Probability overview - [강의영상](https://vimeo.com/261126214/214a39bd08)
 - Bayes' theorem - [강의영상](https://vimeo.com/261126257/13362bd1cb)
-- Single variable bayes classifier
-- Navie bayesian Classifier
-- NB Classifier Implementation
-- Gaussian Naive Bayes
-- Multinomial Naive Bayes
-- NB classifier with sklearn
+- Single variable bayes classifier - [강의영상](https://vimeo.com/261413573/ceb5b2abdd)
+- Navie bayesian Classifier - [강의영상](https://vimeo.com/261413607/dec8f3a2a0)
+- NB Classifier Implementation - [강의영상](https://vimeo.com/261413626/3b5e01b0ee)
+- Multinomial Naive Bayes - [강의영상](https://vimeo.com/261413638/4ca4cd7673)
+- Gaussian Naive Bayes - [강의영상]()
+- NB classifier with sklearn - [강의영상]()
 <!-- - Data sampling method
 - Imbalanced dataset #1
 - Imbalanced dataset #2
