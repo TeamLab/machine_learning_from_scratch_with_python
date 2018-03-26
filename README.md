@@ -160,8 +160,7 @@
 - Softmax regression with numpy - [강의영상](https://vimeo.com/260376761/3ca5698add)
 - Performance metrics for classification - [강의영상](https://vimeo.com/260376874/b972955fbb)
 - Multiclass classification with scikit-learn - [강의영상](https://vimeo.com/260376409/14a54be975)
-<!-- - Building classification service
-- Hyperparmeter searching -->
+<!-- - Building classification service  -->
 
 
 ### Chapter 11 - Naive Bayesian Classifier
@@ -173,13 +172,9 @@
 - Navie bayesian Classifier - [강의영상](https://vimeo.com/261413607/dec8f3a2a0)
 - NB Classifier Implementation - [강의영상](https://vimeo.com/261413626/3b5e01b0ee)
 - Multinomial Naive Bayes - [강의영상](https://vimeo.com/261413638/4ca4cd7673)
-- Gaussian Naive Bayes - [강의영상]()
-- NB classifier with sklearn - [강의영상]()
-<!-- - Data sampling method
-- Imbalanced dataset #1
-- Imbalanced dataset #2
-- Imbalanced dataset #3 SMOTE
-- Imbalanced Dataset Kaggle -->
+- Gaussian Naive Bayes - [강의영상](https://vimeo.com/261444922/d14c159ad9)
+- NB classifier with sklearn - [강의영상](https://vimeo.com/261444945/ec062215cc)
+- 20news group classifaication - [강의영상#1](https://vimeo.com/261836497/03c716f9c4), [#2](https://vimeo.com/261836660/4ae5691df0)
 
 #### Supplements
 - Text hadnling Lab: News categorization - [강의영상#1](https://vimeo.com/250774043/8af19915ca), [영상#2](https://vimeo.com/251102061/281f6362e1), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQGMbDTaK5uD6cjHg)
@@ -210,6 +205,12 @@
 - Hyperparmeter searching advanced
 - Hyperparmeter searching with Parallel training
 - AutoML
+<!-- - Data sampling method
+- Imbalanced dataset #1
+- Imbalanced dataset #2
+- Imbalanced dataset #3 SMOTE
+- Imbalanced Dataset Kaggle -->
+
 
 ### Chapter 14 - Support Vector Model
 #### Lecture
