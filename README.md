@@ -181,10 +181,10 @@
 
 ### Chapter 12 - Decision Tree
 #### Lecture
-- Decision tree overview - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4qi9X1hKjX082S8g)
-- The concept of entropy - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4r0UBLzvH0RUVYFg)
-- The algorithme of growing decision tree - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4tF16NBhJ2HVDQ1A)
-- ID3 & Information gain - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ4uPwrK7vdCQqbrbg)
+- Decision tree overview
+- The concept of entropy
+- The algorithme of growing decision tree
+- ID3 & Information gain 
 - CART & Gini Index - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5QS8i_0xHPKwrxzA)
 - Decision Tree with sklearn - [강의자료]()
 - Handling a continuous attribute - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5OS2VoGe4YtmZrjw)
