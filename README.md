@@ -182,12 +182,12 @@
 ### Chapter 12 - Decision Tree
 #### Lecture
 - Chapter overview - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch11)
-- Decision tree overview - [강의영상]()
-- The concept of entropy - [강의영상]()
-- The algorithme of growing decision tree - [강의영상]()
-- ID3 & Information gain - [강의영상]()
-- CART & Gini Index - [강의영상]()
-- Tree pruning - [강의영상]()
+- Decision tree overview - [강의영상](https://vimeo.com/262963562/62e0aad62e)
+- The concept of entropy - [강의영상](https://vimeo.com/262963619/8c1acb3146)
+- The algorithme of growing decision tree - [강의영상](https://vimeo.com/262963652/ac5cd0f0e8)
+- ID3 & Information gain - [강의영상](https://vimeo.com/263114919/0fff80e0e5)
+- CART & Gini Index - [강의영상](https://vimeo.com/263115155/0e13b1950e)
+- Tree pruning - [강의영상](https://vimeo.com/263114857/9d9edea181)
 
 <!-- - Decision Tree with sklearn - [강의자료]()
 - Handling a continuous attribute - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5OS2VoGe4YtmZrjw)
