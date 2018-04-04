@@ -181,16 +181,19 @@
 
 ### Chapter 12 - Decision Tree
 #### Lecture
-- Decision tree overview
-- The concept of entropy
-- The algorithme of growing decision tree
-- ID3 & Information gain 
-- CART & Gini Index - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5QS8i_0xHPKwrxzA)
-- Decision Tree with sklearn - [강의자료]()
+- Chapter overview - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch11)
+- Decision tree overview - [강의영상]()
+- The concept of entropy - [강의영상]()
+- The algorithme of growing decision tree - [강의영상]()
+- ID3 & Information gain - [강의영상]()
+- CART & Gini Index - [강의영상]()
+- Tree pruning - [강의영상]()
+
+<!-- - Decision Tree with sklearn - [강의자료]()
 - Handling a continuous attribute - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5OS2VoGe4YtmZrjw)
 - Decision Tree for Regression - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5R-oWB8757j1eOfQ)
 - Tree pruning - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5PqnjBrLnYOmHUNA)
-- Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb)
+- Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb) -->
 
 ### Chapter 13 -  How to improve a performance of your model
 #### Lecture
