@@ -202,15 +202,17 @@
 - Implemnting ensemble classifier with sklearn
 - Gradient boosting - XGBoost, GBM & LightGBM
 - Stacking
-- Feature Engineearning
 - Hyperparmeter searching advanced
-- Hyperparmeter searching with Parallel training
-- AutoML
-<!-- - Data sampling method
+
+### Chapter 13 -  How to improve a performance of your model
+#### Lecture
 - Imbalanced dataset #1
 - Imbalanced dataset #2
 - Imbalanced dataset #3 SMOTE
-- Imbalanced Dataset Kaggle -->
+- Imbalanced Dataset Kaggle
+- Feature Engineearning
+- Hyperparmeter searching with Parallel training
+- AutoML
 
 
 ### Chapter 14 - Support Vector Model
