@@ -4,9 +4,9 @@ Copyright 2018 © by teamLab.gachon@gmail.com
 
 ## Introduction
 
-[PDF 파일 다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_linear_model_gd.pdf)
+[PDF 파일 다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/linear_model_gd.pdf)
 
-이 번 랩은 우리가 강의를 통해 들은 Gradient descent을 활용하여 LinearRegression 모듈을 구현하는 것을 목표로 한다. 앞서 우리가 Normal equation lab을 수행하였듯이, LinearRegression 모듈의 구현을 위해서는 numpy와 Python OOP의 기본적인 개념이해가 필요하다. 실제 Tensorflow의 optimizer나 scikit-learn SGDRegressor의 가장 기본적인 형태로 이해하면 좋겠다.
+이 번 랩은 우리가 강의를 통해 들은 Gradient descent을 활용하여 LinearRegression 모듈을 구현하는 것을 목표로 합니다. 앞서 우리가 Normal equation lab을 수행하였듯이, LinearRegression 모듈의 구현을 위해서는 numpy와 Python OOP의 기본적인 개념이해가 필요합니다. 실제 Tensorflow의 optimizer나 scikit-learn SGDRegressor의 가장 기본적인 형태로 이해하면 좋겠습니다.
 
 ## backend.ai 설치
 숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
@@ -24,7 +24,7 @@ pip install backend.ai-client
 
 또는 Mac OS에서는 아래 명령을 쓰셔도 됩니다.
 ```bash
-wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_gradient_descent.zip
+ wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_gradient_descent.zip
 ```
 
 다운로드 된 `lab_gradient_descent.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.  압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
@@ -177,9 +177,15 @@ y : numpy array, 예측된 값을 1차원 vector 형태로 [n_predicted_targets]
 
 
 ### cost 함수 만들기
-본 함수는 예측치 y_hat과 실제 값 y 값간의 차이를 cost 함수를 구하는 공식으로 산출한다. 산출하는 공식은 아래와 같으며, 반드시 return을 포함하여 한줄로 함수를 만들어야 한다.
+본 함수는 예측치 y_hat과 실제 값 y 값간의 차이를 cost 함수를 구하는 공식으로 산출한다. 산출하는 공식은 아래와 같다.
 
 <center><a href="http://www.codecogs.com/eqnedit.php?latex=J&space;=&space;\frac{1}{2m}&space;\sum_{i=1}^{m}&space;(h_{\theta}(x^{(i)}&space;-&space;y^{(i)})^2" target="_blank"><img src="http://latex.codecogs.com/gif.latex?J&space;=&space;\frac{1}{2m}&space;\sum_{i=1}^{m}&space;(h_{\theta}(x^{(i)}&space;-&space;y^{(i)})^2" title="J = \frac{1}{2m} \sum_{i=1}^{m} (h_{\theta}(x^{(i)} - y^{(i)})^2" /></a>
+
+본 함수는 반드시 return을 포함하여 한줄로 함수를 만들어야 합니다. 함 줄 코딩의 예시는 다음과 같다. 주석등도 줄로 치니 중의 바랍니다.
+```python
+def cost(self, h, y):
+    return np.sum((h-y).flatten())
+```
 
 ```python
 Parameters
@@ -195,9 +201,17 @@ cost_value : float형태의 scalar 값을 반환함
 ```
 
 ### hypothesis_function 함수 만들기
-본 함수는 theta 값과 X의 값이 주어지면 예측치인 Y_hat을 반환하는 함수이다. 함수에서 사용되는 공식은 아래와 같으며, 리턴되는 값의 형태는 2차원 matrix 형태이다. 반드시 return을 포함하여 한줄로 함수를 만들어야 한다.
+본 함수는 theta 값과 X의 값이 주어지면 예측치인 Y_hat을 반환하는 함수이다. 함수에서 사용되는 공식은 아래와 같으며, 리턴되는 값의 형태는 2차원 matrix 형태이다.
 
 <center><a href="http://www.codecogs.com/eqnedit.php?latex=\hat{\bold{y}}&space;=&space;\bold{X}&space;\bold{w}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\hat{\bold{y}}&space;=&space;\bold{X}&space;\bold{w}" title="\hat{\bold{y}} = \bold{X} \bold{w}" /></a>
+
+
+본 함수는 반드시 return을 포함하여 한줄로 함수를 만들어야 합니다. 함 줄 코딩의 예시는 다음과 같다. 주석등도 줄로 치니 중의 바랍니다.
+```python
+def hypothesis_function(self, h, y):
+    return np.sum((h-y).flatten())
+```
+
 
 ```python
 Parameters
@@ -212,9 +226,15 @@ y_hat : numpy array, 예측된 값을 2차원 matrix 형태로 [-1, n_predicted_
 ```
 
 ### gradient 함수 만들기
-weight 값을 업데이트 하기 위한 Gradient를 생성하는 함수이다. 함수의 반환값은 Matrix 또는 Vector형태로 반환하면 되나, 이후에 처리를 고려하여 변환해야 한다.
+weight 값을 업데이트 하기 위한 Gradient를 생성하는 함수이다. 함수의 반환값은 Vector형태로 반환한다.
 
 <center><a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\partial{J}}{\partial{w_n}}&space;=&space;\frac{1}{m}&space;\sum_{i=1}^{m}&space;(\bold{w}^T&space;\bold{x}^{(i)}&space;-&space;y^{(i)}&space;)&space;\cdot&space;x_n" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\partial{J}}{\partial{w_n}}&space;=&space;\frac{1}{m}&space;\sum_{i=1}^{m}&space;(\bold{w}^T&space;\bold{x}^{(i)}&space;-&space;y^{(i)}&space;)&space;\cdot&space;x_n" title="\frac{\partial{J}}{\partial{w_n}} = \frac{1}{m} \sum_{i=1}^{m} (\bold{w}^T \bold{x}^{(i)} - y^{(i)} ) \cdot x_n" /></a>
+
+본 함수는 반드시 return을 포함하여 한줄로 함수를 만들어야 합니다. 함 줄 코딩의 예시는 다음과 같다. 주석등도 줄로 치니 중의 바랍니다.
+```python
+def gradient(self, h, y):
+    return np.sum((h-y).flatten())
+```
 
 ```python
 Parameters
@@ -228,8 +248,7 @@ Returns
 -------
 gradient : numpy array, 공식에 의해 산출된 gradient vector를 반환함.
    이때 gradient vector는 weight의 갯수 만큼 element를 가진다.
-   반환되는 형태는 자유롭게 할 수 있으나 [-1, weight_gradient]나
-   [weight_gradient]로 반환 후 다음 수식에서 사용하기 위한 처리가 필요하다.
+   반환되는 형태는 [weight_gradient]로 반환하므로 반드시 flatten 함수를 사용한다.
 ```
 
 ### 구현 모듈 테스트하기
