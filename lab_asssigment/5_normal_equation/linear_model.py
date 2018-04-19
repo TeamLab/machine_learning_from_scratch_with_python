@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class LinearRegression(object):
     def __init__(self, fit_intercept=True, copy_X=True):
         self.fit_intercept = fit_intercept

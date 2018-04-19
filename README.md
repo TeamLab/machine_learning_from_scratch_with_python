@@ -188,12 +188,10 @@
 - ID3 & Information gain - [강의영상](https://vimeo.com/263114919/0fff80e0e5)
 - CART & Gini Index - [강의영상](https://vimeo.com/263115155/0e13b1950e)
 - Tree pruning - [강의영상](https://vimeo.com/263114857/9d9edea181)
-
-<!-- - Decision Tree with sklearn - [강의자료]()
-- Handling a continuous attribute - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5OS2VoGe4YtmZrjw)
-- Decision Tree for Regression - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5R-oWB8757j1eOfQ)
-- Tree pruning - [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgZ5PqnjBrLnYOmHUNA)
-- Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb) -->
+- Decision Tree with sklearn - [강의영상](https://vimeo.com/265128789/ecd47c0f1a)
+- Handling a continuous attribute - [강의영상](https://vimeo.com/265129103/bea9e29622)
+- Decision Tree for Regression - [강의영상](https://vimeo.com/265128477/3baad15037)
+<!-- - Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb) -->
 
 ### Chapter 13 -  How to improve a performance of your model
 #### Lecture
@@ -204,15 +202,17 @@
 - Implemnting ensemble classifier with sklearn
 - Gradient boosting - XGBoost, GBM & LightGBM
 - Stacking
-- Feature Engineearning
 - Hyperparmeter searching advanced
-- Hyperparmeter searching with Parallel training
-- AutoML
-<!-- - Data sampling method
+
+### Chapter 13 -  How to improve a performance of your model
+#### Lecture
 - Imbalanced dataset #1
 - Imbalanced dataset #2
 - Imbalanced dataset #3 SMOTE
-- Imbalanced Dataset Kaggle -->
+- Imbalanced Dataset Kaggle
+- Feature Engineearning
+- Hyperparmeter searching with Parallel training
+- AutoML
 
 
 ### Chapter 14 - Support Vector Model

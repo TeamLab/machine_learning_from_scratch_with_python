@@ -4,9 +4,9 @@ Copyright 2018 © by teamLab.gachon@gmail.com
 
 ## Introduction
 
-[PDF 파일 다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_linear_model.pdf)
+[PDF 파일 다운로드]()
 
-이 번 랩은 우리가 강의를 통해 들은 Normal equation을 활용하여 LinearRegression 모듈을 구현하는 것을 목표로 한다. LinearRegression 모듈의 구현을 위해서는 numpy와 Python OOP의 기본적인 개념이해가 필요하다. 혹시 해당 개념들이 조금 헷갈린다면 다시 복습을 하고 올 것을 추천한다. 이번 랩을 통해 scikit-learn이나 tensorflow 같은 머신러닝 라이브러리들이 어떻게 구성되는지 조금이라도 알게 되면 좋겠다.
+이 번 랩은 우리가 강의를 통해 들은 Normal equation을 활용하여 LinearRegression 모듈을 구현하는 것을 목표로 합니다. LinearRegression 모듈의 구현을 위해서는 numpy와 Python OOP의 기본적인 개념이해가 필요합니다. 혹시 해당 개념들이 조금 헷갈린다면 다시 복습을 하고 올 것을 추천합니다. 이번 랩을 통해 scikit-learn이나 tensorflow 같은 머신러닝 라이브러리들이 어떻게 구성되는지 조금이라도 알게 되면 좋겠습니다.
 
 ## backend.ai 설치
 숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
@@ -16,18 +16,18 @@ pip install backend.ai-client
 ```
 
 ## 숙제 파일(lab_normal_equation.zip) 다운로드
- 먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 아래링크를 다운로드 하거나 Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 아래링크를 다운로드 하거나 Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
- - 링크 [2_lab_bulid_matrix.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_normal_equation.zip)
+ - 링크 [lab_normal_equation.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_normal_equation.zip)
  - https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_normal_equation.zip
 
- 또는 Mac OS에서는 아래 명령을 쓰셔도 됩니다.
- ```bash
- wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_normal_equation.zip
- ```
+또는 Mac OS에서는 아래 명령을 쓰셔도 됩니다.
+```bash
+wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_normal_equation.zip
+```
 
- 다운로드 된 `lab_normal_equation.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.
- 압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
+다운로드 된 `lab_normal_equation.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.
+압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
 
 ## linear_model.py 코드 구조
 본 Lab은 LinearRegression 모듈을 만들기 위해 `linear_model.py` 라는 template 파일을 제공합니다. 제공하는 template 파일은 아래와 같은 구조를 가지며 각 변수와 함수의 역할은 아래 테이블과 같습니다.
@@ -67,10 +67,10 @@ class LinearRegression(object):
 ```
 
 ## Mission
-이번 랩 부터는 제출에 의해서 컴퓨터가 직접 채점을 하는 auto-grading 문제와 수강자가 스스로 문제를 점검하는 self-grading 문제로 나눠서 진행된다. 본 랩에서는 auto-grading 문제는 `linear_model.py`의 LinearRegression class를 수정하는 것이고, self-grading 문제는 스스로 `ipynb`파일을 만들어서 제시된 문제들을 실제 수행하는 것이다.
+이번 랩 부터는 제출에 의해서 컴퓨터가 직접 채점을 하는 auto-grading 문제와 수강자가 스스로 문제를 점검하는 self-grading 문제로 나눠서 진행됩니다. 본 랩에서는 auto-grading 문제는 `linear_model.py`의 LinearRegression class를 수정하는 것이고, self-grading 문제는 스스로 `ipynb`파일을 만들어서 제시된 문제들을 실제 수행하는 것 입니다.
 
 ### fit 함수 만들기
-fit 함수는 Linear regression 모델을 적합하는 함수 이다. 본 함수는 Matrix X와 Vector Y가 입력 값으로 들어오면 Normal equation을 활용하여, weight값을 찾는다. 이 때, fit_intercept 설정에 따라 다른 방시으로 적합이 실행이 달라진다. 또한 fit을 할 때는 입력되는 X의 값은 반드시 새로운 변수(self._new_X)에 저장한 후 실행되어야 한다.
+fit 함수는 Linear regression 모델을 적합하는 함수입니다. 본 함수는 Matrix X와 Vector Y가 입력 값으로 들어오면 Normal equation을 활용하여, weight값을 찾는 방식입니다. 이 때, fit_intercept 설정에 따라 다른 방식으로 적합이 실행이 달라집니다. 또한 fit을 할 때는 입력되는 X의 값은 반드시 새로운 변수(self._new_X)에 저장한 후 실행되어야 합니다.
 
 > fit_intercept가 True일 경우: Matrix X의 0번째 Column에 값이 1인 column vector를 추가한다. 단 fit_intercept가 False일 경우의 Matrix X의 변수는 2개 이상일 것이라고 가정한다.
 
@@ -78,7 +78,7 @@ fit을 할 때는 아래의 Normal equation의 공식을 활용한다.
 
 <center><a href="http://www.codecogs.com/eqnedit.php?latex=\bold{\hat{w}}&space;&&space;=&space;(\bold{X}^{T}\bold{X})^{-1}&space;\bold{X}^T\bold{y}" target="_blank"><img src="http://latex.codecogs.com/svg.latex?\bold{\hat{w}}&space;&&space;=&space;(\bold{X}^{T}\bold{X})^{-1}&space;\bold{X}^T\bold{y}" title="\bold{\hat{w}} & = (\bold{X}^{T}\bold{X})^{-1} \bold{X}^T\bold{y}" /></a>
 
-적합이 종료된 후 각 변수의 계수(coefficient 또는 weight값을 의미)는 self._coef와 self._intercept_coef 에 저장된다. 이때 self._coef는 numpy array을 각 변수항의 weight값을 저장한 1차원 vector이며, self._intercept_coef는 상수항의 weight를 저장한 scalar(float) 이다. 입력되는 parameter와 리턴은 아래 정보를 참고한다.
+적합이 종료된 후 각 변수의 계수(coefficient 또는 weight값을 의미)는 self._coef와 self._intercept에 저장된다. 이때 self._coef는 numpy array을 각 변수항의 weight값을 저장한 1차원 vector이며, self._intercept는 상수항의 weight를 저장한 scalar(float) 이다. 입력되는 parameter와 리턴은 아래 정보를 참고한다.
 
 ```python
 Parameters
