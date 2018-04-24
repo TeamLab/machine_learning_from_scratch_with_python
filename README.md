@@ -196,13 +196,13 @@
 ### Chapter 13 -  How to improve a performance of your model
 #### Lecture
 - Chapter intro
-- Ensemble model overview
+- Ensemble model overview - [강의영상](https://vimeo.com/266049008/f1bd5e6cca)
+- Voting classifier - [강의영상]()
+- Bagging - [강의영상]()
 - Random Forest
-- Boosting, Bagging, AdaBoost
-- Implemnting ensemble classifier with sklearn
+- AdaBoost
 - Gradient boosting - XGBoost, GBM & LightGBM
 - Stacking
-- Hyperparmeter searching advanced
 
 ### Chapter 13 -  How to improve a performance of your model
 #### Lecture
