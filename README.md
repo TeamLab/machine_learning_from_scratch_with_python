@@ -193,7 +193,7 @@
 - Decision Tree for Regression - [강의영상](https://vimeo.com/265128477/3baad15037)
 <!-- - Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb) -->
 
-### Chapter 13 -  How to improve a performance of your model
+### Chapter 13 -  Ensemble
 #### Lecture
 - Chapter intro
 - Ensemble model overview - [강의영상](https://vimeo.com/266049008/f1bd5e6cca)
