@@ -197,8 +197,8 @@
 #### Lecture
 - Chapter intro
 - Ensemble model overview - [강의영상](https://vimeo.com/266049008/f1bd5e6cca)
-- Voting classifier - [강의영상]()
-- Bagging - [강의영상]()
+- Voting classifier - [강의영상](https://vimeo.com/266607794/a38e03ec54)
+- Bagging - [강의영상](https://vimeo.com/266607845/c52808b554)
 - Random Forest
 - AdaBoost
 - Gradient boosting - XGBoost, GBM & LightGBM
