@@ -181,7 +181,7 @@
 
 ### Chapter 12 - Decision Tree
 #### Lecture
-- Chapter overview - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch11)
+- Chapter overview - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch12)
 - Decision tree overview - [강의영상](https://vimeo.com/262963562/62e0aad62e)
 - The concept of entropy - [강의영상](https://vimeo.com/262963619/8c1acb3146)
 - The algorithme of growing decision tree - [강의영상](https://vimeo.com/262963652/ac5cd0f0e8)
@@ -195,11 +195,11 @@
 
 ### Chapter 13 -  Ensemble
 #### Lecture
-- Chapter intro
+- Chapter intro - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_13.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch13)
 - Ensemble model overview - [강의영상](https://vimeo.com/266049008/f1bd5e6cca)
 - Voting classifier - [강의영상](https://vimeo.com/266607794/a38e03ec54)
 - Bagging - [강의영상](https://vimeo.com/266607845/c52808b554)
-- Random Forest
+- Random Forest - [강의영상](https://vimeo.com/266658129/f6affd11da)
 - AdaBoost
 - Gradient boosting - XGBoost, GBM & LightGBM
 - Stacking
