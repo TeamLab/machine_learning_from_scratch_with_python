@@ -200,7 +200,7 @@
 - Voting classifier - [강의영상](https://vimeo.com/266607794/a38e03ec54)
 - Bagging - [강의영상](https://vimeo.com/266607845/c52808b554)
 - Random Forest - [강의영상](https://vimeo.com/266658129/f6affd11da)
-- AdaBoost
+- AdaBoost - [강의영상](https://vimeo.com/267610147/a1ea62fc4f)
 - Gradient boosting - XGBoost, GBM & LightGBM
 - Stacking
 
