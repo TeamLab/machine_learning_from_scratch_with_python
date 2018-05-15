@@ -201,7 +201,8 @@
 - Bagging - [강의영상](https://vimeo.com/266607845/c52808b554)
 - Random Forest - [강의영상](https://vimeo.com/266658129/f6affd11da)
 - AdaBoost - [강의영상](https://vimeo.com/267610147/a1ea62fc4f)
-- Gradient boosting - XGBoost, GBM & LightGBM
+- Gradient boosting - [강의영상#1](https://vimeo.com/269764197/3c6b40a543), [영상#2](https://vimeo.com/269764482/5dd1ac5656)
+- XGBoost, GBM & LightGBM
 - Stacking
 
 ### Chapter 13 -  How to improve a performance of your model
