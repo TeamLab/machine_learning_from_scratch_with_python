@@ -21,4 +21,25 @@ cd python-package; python setup.py install
 
 ## lightgbm installation guide
 
+```bash
 conda install -c conda-forge lightgbm
+```
+
+```bash
+git clone --recursive https://github.com/Microsoft/LightGBM
+cd LightGBM
+mkdir build
+cd build
+cmake -DCMAKE_GENERATOR_PLATFORM=x64 -DUSE_MPI=ON ..
+cmake --build . --target ALL_BUILD --config Release
+```
+
+```
+git clone --recursive https://github.com/Microsoft/LightGBM
+cd LightGBM
+mkdir build
+cd build
+cmake -DCMAKE_GENERATOR_PLATFORM=x64 ..
+# cmake -DCMAKE_GENERATOR_PLATFORM=x64 -DUSE_MPI=ON ..
+cmake --build . --target ALL_BUILD --config Release
+```
