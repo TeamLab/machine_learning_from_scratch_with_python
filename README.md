@@ -203,7 +203,7 @@
 - AdaBoost - [강의영상](https://vimeo.com/267610147/a1ea62fc4f)
 - Gradient boosting - [강의영상#1](https://vimeo.com/269764197/3c6b40a543), [영상#2](https://vimeo.com/269764482/5dd1ac5656)
 - XGBoost & LightGBM - [강의영상](https://vimeo.com/272060904/36299a5c0d)
-- Installation guide on Windows - [강의영상](https://vimeo.com/272061288/979eccf0cd)
+- Installation guide on Windows - [강의영상](https://vimeo.com/272061288/979eccf0cd), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch13/xgboost_installation_guide.md)
 - Stacking - [강의영상](https://vimeo.com/272061773/5b4e80c04b)
 
 ### Chapter 13 -  How to improve a performance of your model
