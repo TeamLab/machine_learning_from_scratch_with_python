@@ -202,8 +202,9 @@
 - Random Forest - [강의영상](https://vimeo.com/266658129/f6affd11da)
 - AdaBoost - [강의영상](https://vimeo.com/267610147/a1ea62fc4f)
 - Gradient boosting - [강의영상#1](https://vimeo.com/269764197/3c6b40a543), [영상#2](https://vimeo.com/269764482/5dd1ac5656)
-- XGBoost, GBM & LightGBM
-- Stacking
+- XGBoost & LightGBM - [강의영상](https://vimeo.com/272060904/36299a5c0d)
+- Installation guide on Windows - [강의영상](https://vimeo.com/272061288/979eccf0cd)
+- Stacking - [강의영상](https://vimeo.com/272061773/5b4e80c04b)
 
 ### Chapter 13 -  How to improve a performance of your model
 #### Lecture
