@@ -193,7 +193,7 @@
 - Decision Tree for Regression - [강의영상](https://vimeo.com/265128477/3baad15037)
 <!-- - Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb) -->
 
-### Chapter 13 -  Ensemble
+### Chapter 13 - Ensemble
 #### Lecture
 - Chapter intro - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_13.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch13)
 - Ensemble model overview - [강의영상](https://vimeo.com/266049008/f1bd5e6cca)
@@ -206,13 +206,13 @@
 - Installation guide on Windows - [강의영상](https://vimeo.com/272061288/979eccf0cd), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch13/xgboost_installation_guide.md)
 - Stacking - [강의영상](https://vimeo.com/272061773/5b4e80c04b)
 
-### Chapter 13 -  How to improve a performance of your model
+### Chapter 14 - Performance tuning
 #### Lecture
-- Imbalanced dataset #1
+- Overview - [강의영상](https://vimeo.com/275855966/40ac9c4e13)
+- Feature Engineearning
 - Imbalanced dataset #2
 - Imbalanced dataset #3 SMOTE
 - Imbalanced Dataset Kaggle
-- Feature Engineearning
 - Hyperparmeter searching with Parallel training
 - AutoML
 
