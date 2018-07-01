@@ -209,7 +209,7 @@
 ### Chapter 14 - Performance tuning
 #### Lecture
 - Overview - [강의영상](https://vimeo.com/275855966/40ac9c4e13)
-- Feature Engineearning
+- Feature Engineering
 - Imbalanced dataset #2
 - Imbalanced dataset #3 SMOTE
 - Imbalanced Dataset Kaggle
