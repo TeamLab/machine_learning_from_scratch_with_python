@@ -29,7 +29,7 @@
 - Course Overvier = [강의영상](https://www.youtube.com/watch?v=E3WsXxTe4SI&index=1&t=102s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 
 ### Chapter 1 - Introduction to Machine Learning
-- Machine learning overview - [강의영상](https://www.youtube.com/watch?v=5b-fCpzBF48&index=2&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
+- Machine learning overview - ~~[강의영상]()~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
 - An understanding of the data keywords - [강의영상](https://www.youtube.com/watch?v=1Z-lT4ooSFY&index=3&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNWzCy7_qdMbAAYmQ)
 - How to learn machine learning - [강의영상](https://www.youtube.com/watch?v=-2f3QZsUGp8&index=4&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNX7i9JHPB04EwT3g)
 - Types of machine learning - [강의영상](https://www.youtube.com/watch?v=Xmd-7nLg_Xo&index=5&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNYJGXJnnhTP1Ckgg)
@@ -49,8 +49,8 @@
 - Representing a model with numpy - [강의영상](https://www.youtube.com/watch?v=usEs6GW9mt0&index=13&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
 
 #### Supplements - Linear algebra
-- Lab: Simple Linear algebra concepts - [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
-- Lab: Simple Linear algebra codes - [강의영상](https://vimeo.com/245943473/7372cc35c3), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
+- Lab: Simple Linear algebra concepts - ~~\[강의영상\]\(\)~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
+- Lab: Simple Linear algebra codes - ~~강의영상~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
 - Assignment: Linear algebra with pythonic code -  [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_bla/lab_bla.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_bla)
 
 
@@ -112,68 +112,68 @@
 ### Chapter 7 - Linear Regression
 #### Lecture
 - Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRTHSfpYrbR5D8wNQ), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch7), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch7.zip)
-- Linear regression overview - [강의영상](https://vimeo.com/254316917/a63ddb889c)
-- Cost functions - [강의영상](https://vimeo.com/254316943/b2907cf716)
-- Normal equation - [강의영상](https://vimeo.com/254317793/602d3132f6)
+- Linear regression overview - ~~강의영상~~
+- Cost functions - ~~강의영상~~
+- Normal equation - ~~강의영상~~
 - Lab Assignment: Normal equation -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_linear_model.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/5_normal_equation)
-- Gradient descent approach - [강의영상](https://vimeo.com/254317156/6a101f5f54)
-- Linear regression wtih gradient descent - [강의영상](https://vimeo.com/254316980/520c7fd462)
-- Linear regression implementation wtih Numpy - [강의영상](https://vimeo.com/254408998/2913ccc5f3)
-- Multivariate linear regression models - [강의영상](https://vimeo.com/254408924/fbdc622b7c)
-- Performance measure for a regression model - [강의영상](https://vimeo.com/254408950/ec2c85c010)
-- Linear regression implementation wtih scikit-learn - [강의영상](https://vimeo.com/254408973/50db14a47b)
+- Gradient descent approach - ~~강의영상~~
+- Linear regression wtih gradient descent - ~~강의영상~~
+- Linear regression implementation wtih Numpy - ~~강의영상~~
+- Multivariate linear regression models - ~~강의영상~~
+- Performance measure for a regression model - ~~강의영상~~
+- Linear regression implementation wtih scikit-learn - ~~강의영상~~
 - Lab Assignment: Gradient descent -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_linear_model_gd.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/6_gradient_descent)
 
 ### Chapter 8 - Linear Regression extended
 #### Lecture
 - Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRTHSfpYrbR5D8wNQ), [강의코드](https://1drv.ms/b/s!ApZ4mg7k2qYhgaUEwtbgkp_vjGAstw), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch8.zip)
-- Stochastic gradient descent - [강의영상](https://vimeo.com/255385405/cc3cbd1f3c)
-- SGD implementation issues - [강의영상](https://vimeo.com/255385567/e57c9e7b16)
-- Overfitting and regularization overview - [강의영상](https://vimeo.com/255568128/cbaa0cbe5b)
-- Regularization - L1, L2 - [강의영상](https://vimeo.com/255682381/41393681bb)
-- sklearn Linear Model family - [강의영상](https://vimeo.com/255682163/baf3549426)
-- Polynomial regression  - [강의영상](https://vimeo.com/256603048/901c26d2be)
-- Sampling method - [강의영상](https://vimeo.com/256603180/fd9c478a50)
-- Kaggle project : Bike demand  - [강의영상](https://vimeo.com/256773298/1a73592a47)
+- Stochastic gradient descent - ~~강의영상~~
+- SGD implementation issues - ~~강의영상~~
+- Overfitting and regularization overview - ~~강의영상~~
+- Regularization - L1, L2 - ~~강의영상~~
+- sklearn Linear Model family - ~~강의영상~~
+- Polynomial regression  - ~~강의영상~~
+- Sampling method - ~~강의영상~~
+- Kaggle project : Bike demand  - ~~강의영상~~
 
 
 ### Chapter 9 - Logistics Regression
 #### Lecture
-- Chapter overview - [강의영상](https://vimeo.com/249674832/64fda89754), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhga1n8BQpW4XZ7qVwkQ), [강의코드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch9.zip)
-- Logistic regression overview - [강의영상](https://vimeo.com/258218955/19f1193c49)
-- Sigmoid function - [강의영상](https://vimeo.com/258219026/583841f34d)
-- Cost function - [강의영상](https://vimeo.com/258219105/6dec19085d)
-- Logistic regression implementation with numpy - [강의영상](https://vimeo.com/258219162/891fd45245)
-- Maximum Likelyhood Estimation - [강의영상](https://vimeo.com/258219016/3337867fa9)
-- Logistic regression with scikit-learn - [강의영상](https://vimeo.com/258570220/60c5759d79)
-- Confusion matrix - [강의영상](https://vimeo.com/258570335/2de79f7ef9)
-- Performance metrics for classification - [강의영상](https://vimeo.com/258570350/dd0ad37bc9)
-- ROC curve & AUC - [강의영상](https://vimeo.com/258772854/9aca44e022)
+- Chapter overview - ~~강의영상~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhga1n8BQpW4XZ7qVwkQ), [강의코드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch9.zip)
+- Logistic regression overview - ~~강의영상~~
+- Sigmoid function - ~~강의영상~~
+- Cost function - ~~강의영상~~
+- Logistic regression implementation with numpy - ~~강의영상~~
+- Maximum Likelyhood Estimation - ~~강의영상~~
+- Logistic regression with scikit-learn - ~~강의영상~~
+- Confusion matrix - ~~강의영상~~
+- Performance metrics for classification - ~~강의영상~~
+- ROC curve & AUC - ~~강의영상~~
 
 
 ### Chapter 10 - Logistics Regression extended
 #### Lecture
 - Chapter overview - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhga4ADmy-bPQPjynS7w), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch10)
-- Multiclass Classification overview - [강의영상](https://vimeo.com/260354045/b89c3972cf)
-- Softmax function #1 - [강의영상](https://vimeo.com/260354075/090e29741d)
-- Softmax function #2 - [강의영상](https://vimeo.com/260376690/3dafb3bc7f)
-- Softmax regression with numpy - [강의영상](https://vimeo.com/260376761/3ca5698add)
-- Performance metrics for classification - [강의영상](https://vimeo.com/260376874/b972955fbb)
-- Multiclass classification with scikit-learn - [강의영상](https://vimeo.com/260376409/14a54be975)
+- Multiclass Classification overview - ~~강의영상~~
+- Softmax function #1 - ~~강의영상~~
+- Softmax function #2 - ~~강의영상~~
+- Softmax regression with numpy - ~~강의영상~~
+- Performance metrics for classification - ~~강의영상~~
+- Multiclass classification with scikit-learn - ~~강의영상~~
 <!-- - Building classification service  -->
 
 
 ### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
-- Chapter overview - [강의영상](https://vimeo.com/260920151/c8b62eb9f6), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_11.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch11)
-- Probability overview - [강의영상](https://vimeo.com/261126214/214a39bd08)
-- Bayes' theorem - [강의영상](https://vimeo.com/261126257/13362bd1cb)
-- Single variable bayes classifier - [강의영상](https://vimeo.com/261413573/ceb5b2abdd)
-- Navie bayesian Classifier - [강의영상](https://vimeo.com/261413607/dec8f3a2a0)
-- NB Classifier Implementation - [강의영상](https://vimeo.com/261413626/3b5e01b0ee)
-- Multinomial Naive Bayes - [강의영상](https://vimeo.com/261413638/4ca4cd7673)
-- Gaussian Naive Bayes - [강의영상](https://vimeo.com/261444922/d14c159ad9)
-- NB classifier with sklearn - [강의영상](https://vimeo.com/261444945/ec062215cc)
+- Chapter overview - ~~강의영상~~, [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_11.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch11)
+- Probability overview - ~~강의영상~~
+- Bayes' theorem - ~~강의영상~~
+- Single variable bayes classifier - ~~강의영상~~
+- Navie bayesian Classifier - ~~강의영상~~
+- NB Classifier Implementation - ~~강의영상~~
+- Multinomial Naive Bayes - ~~강의영상~~
+- Gaussian Naive Bayes - ~~강의영상~~
+- NB classifier with sklearn - ~~강의영상~~
 - 20news group classifaication - [강의영상#1](https://vimeo.com/261836497/03c716f9c4), [#2](https://vimeo.com/261836660/4ae5691df0)
 
 #### Supplements
@@ -182,29 +182,29 @@
 ### Chapter 12 - Decision Tree
 #### Lecture
 - Chapter overview - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch12)
-- Decision tree overview - [강의영상](https://vimeo.com/262963562/62e0aad62e)
-- The concept of entropy - [강의영상](https://vimeo.com/262963619/8c1acb3146)
-- The algorithme of growing decision tree - [강의영상](https://vimeo.com/262963652/ac5cd0f0e8)
-- ID3 & Information gain - [강의영상](https://vimeo.com/263114919/0fff80e0e5)
-- CART & Gini Index - [강의영상](https://vimeo.com/263115155/0e13b1950e)
-- Tree pruning - [강의영상](https://vimeo.com/263114857/9d9edea181)
-- Decision Tree with sklearn - [강의영상](https://vimeo.com/265128789/ecd47c0f1a)
-- Handling a continuous attribute - [강의영상](https://vimeo.com/265129103/bea9e29622)
-- Decision Tree for Regression - [강의영상](https://vimeo.com/265128477/3baad15037)
+- Decision tree overview - ~~강의영상~~
+- The concept of entropy - ~~강의영상~~
+- The algorithme of growing decision tree - ~~강의영상~~
+- ID3 & Information gain - ~~강의영상~~
+- CART & Gini Index - ~~강의영상~~
+- Tree pruning - ~~강의영상~~
+- Decision Tree with sklearn - ~~강의영상~~
+- Handling a continuous attribute - ~~강의영상~~
+- Decision Tree for Regression - ~~강의영상~~
 <!-- - Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb) -->
 
 ### Chapter 13 - Ensemble
 #### Lecture
 - Chapter intro - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_13.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch13)
-- Ensemble model overview - [강의영상](https://vimeo.com/266049008/f1bd5e6cca)
-- Voting classifier - [강의영상](https://vimeo.com/266607794/a38e03ec54)
-- Bagging - [강의영상](https://vimeo.com/266607845/c52808b554)
-- Random Forest - [강의영상](https://vimeo.com/266658129/f6affd11da)
-- AdaBoost - [강의영상](https://vimeo.com/267610147/a1ea62fc4f)
-- Gradient boosting - [강의영상#1](https://vimeo.com/269764197/3c6b40a543), [영상#2](https://vimeo.com/269764482/5dd1ac5656)
-- XGBoost & LightGBM - [강의영상](https://vimeo.com/272060904/36299a5c0d)
-- Installation guide on Windows - [강의영상](https://vimeo.com/272061288/979eccf0cd), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch13/xgboost_installation_guide.md)
-- Stacking - [강의영상](https://vimeo.com/272061773/5b4e80c04b)
+- Ensemble model overview - ~~강의영상~~
+- Voting classifier - ~~강의영상~~
+- Bagging - ~~강의영상~~
+- Random Forest - ~~강의영상~~
+- AdaBoost - ~~강의영상~~
+- Gradient boosting - ~~강의영상#1~~, ~~영상#2~~
+- XGBoost & LightGBM - ~~강의영상~~
+- Installation guide on Windows - ~~강의영상~~, [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch13/xgboost_installation_guide.md)
+- Stacking - ~~강의영상~~
 
 ### Chapter 14 - Performance tuning
 #### Lecture
