@@ -174,14 +174,14 @@
 - Multinomial Naive Bayes - ~~강의영상~~
 - Gaussian Naive Bayes - ~~강의영상~~
 - NB classifier with sklearn - ~~강의영상~~
-- 20news group classifaication - [강의영상#1](https://vimeo.com/261836497/03c716f9c4), [#2](https://vimeo.com/261836660/4ae5691df0)
+- 20news group classifaication - ~~강의영상#1~~, ~~#2~~
 
 #### Supplements
-- Text hadnling Lab: News categorization - [강의영상#1](https://vimeo.com/250774043/8af19915ca), [영상#2](https://vimeo.com/251102061/281f6362e1), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQGMbDTaK5uD6cjHg)
+- Text hadnling Lab: News categorization - ~~강의영상#1~~, ~~#2~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQGMbDTaK5uD6cjHg)
 
 ### Chapter 12 - Decision Tree
 #### Lecture
-- Chapter overview - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch12)
+- Chapter overview - ~~강의영상~~, [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch12)
 - Decision tree overview - ~~강의영상~~
 - The concept of entropy - ~~강의영상~~
 - The algorithme of growing decision tree - ~~강의영상~~
@@ -211,6 +211,7 @@
 - Overview - [강의영상](https://vimeo.com/275855966/40ac9c4e13)
 - Feature Engineering I: Generation - [강의영상](https://vimeo.com/278120517/39b1a2f96a)
 - Feature Engineering II: Selection - [강의영상](https://vimeo.com/278252855/288af9adb5)
+- Feature Engineering III: Selection - [강의영상](https://vimeo.com/279372736/70d74f5046)
 - Imbalanced dataset #2
 - Imbalanced dataset #3 SMOTE
 - Imbalanced Dataset Kaggle
