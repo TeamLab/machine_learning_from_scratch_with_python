@@ -214,9 +214,8 @@
 - Feature Engineering #3: Model based - [강의영상](https://vimeo.com/279372736/70d74f5046)
 - Feature Engineering #4: Iterative - [강의영상](https://vimeo.com/280649317/ee59593ce3)
 - Imbalanced dataset #1 - [강의영상](https://vimeo.com/280649468/10a9792d39)
-- Imbalanced dataset #2
-- Imbalanced dataset #3 SMOTE
-- Imbalanced Dataset Kaggle
+- Imbalanced dataset #2 - [강의영상](https://vimeo.com/282320837/6afd1cd6ee)
+<!-- - Imbalanced Dataset Kaggle -->
 - Hyperparmeter searching with Parallel training
 - AutoML
 
