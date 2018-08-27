@@ -208,16 +208,15 @@
 
 ### Chapter 14 - Performance tuning
 #### Lecture
-- Overview - [강의영상](https://vimeo.com/275855966/40ac9c4e13)
+- Overview - [강의영상](https://vimeo.com/275855966/40ac9c4e13), [강의자료](), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/lecture_note_week_14.pdf)
 - Feature Engineering #1: Generation - [강의영상](https://vimeo.com/278120517/39b1a2f96a)
 - Feature Engineering #2: Statics - [강의영상](https://vimeo.com/278252855/288af9adb5)
 - Feature Engineering #3: Model based - [강의영상](https://vimeo.com/279372736/70d74f5046)
 - Feature Engineering #4: Iterative - [강의영상](https://vimeo.com/280649317/ee59593ce3)
 - Imbalanced dataset #1 - [강의영상](https://vimeo.com/280649468/10a9792d39)
 - Imbalanced dataset #2 - [강의영상](https://vimeo.com/282320837/6afd1cd6ee)
-<!-- - Imbalanced Dataset Kaggle -->
-- Hyperparmeter searching with Parallel training
-- AutoML
+- Hyperparmeter searching with Distributed Machines - [강의영상](https://vimeo.com/286889476/c266fa2c2b)
+- AutoML - [강의영상](https://vimeo.com/286543463/3245fb7065)
 
 
 ### Chapter 14 - Support Vector Model
